@@ -4,6 +4,7 @@ title: "TYPO3 BE profiling with XHProf profiling"
 category : "lessons"
 tags : ["typo3","performance","optimization", "profiling", "xhprof"]
 ---
+{% include JB/setup %}
 
 # TYPO3 BE profiling with XHProf profiling
 

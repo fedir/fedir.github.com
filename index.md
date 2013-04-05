@@ -5,17 +5,11 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Hi, I'm Fedir RYKHTIK, Expert Web from Toulon, France.
+Hi, I'm Fedir RYKHTIK, Open Source Web Developer from Toulon, France.
 
-My certifications :
+I'm making sites with Open Source techologies, as Drupal, TYPO3, Wordpress, CodeIgniter.
 
-Zend Certified Engineer PHP5.3 (ZCE)
-
-[![](/assets/res/zcephp53.gif)](http://www.zend.com/en/store/education/certification/yellow-pages.php#show-ClientCandidateID=ZEND015474) 
-
-TYPO3 Certified Integrator
-
-[![](/assets/res/typo3ci.png)](http://certification.typo3.org/index.php?id=63)
+Full CV You could find on Linkedin : http://www.linkedin.com/pub/fedir-rykhtik/14/64/a84
 
 That's some articles I would like to share with You :
 

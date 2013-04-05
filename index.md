@@ -17,6 +17,8 @@ TYPO3 Certified Integrator
 
 [![](/assets/res/typo3ci.png)](http://certification.typo3.org/index.php?id=63)
 
+That's some articles I would like to share with You :
+
 {% for post in site.posts %}
 {{ post.date | date_to_string }} <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
 {% endfor %}

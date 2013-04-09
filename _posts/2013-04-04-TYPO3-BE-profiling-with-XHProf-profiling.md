@@ -6,8 +6,6 @@ tags : [typo3, performance, optimization, profiling, xhprof]
 ---
 {% include JB/setup %}
 
-# TYPO3 BE profiling with XHProf profiling
-
 ## The Problem 
 
 Recenlty I had a performance problem related to use of some 3rd party extensions. As the tagert of the performance optimization was in the BE of TYPO3, existing profilers, available on TYPO3 repository were not useful, as they all oriented FE.

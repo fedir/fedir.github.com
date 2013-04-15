@@ -6,3 +6,8 @@ drafts before to be published after
 * http://forum.typo3.org/index.php?t=msg&th=194405
 * https://github.com/dmitryd/TYPO3v4-Core
 * https://travis-ci.org/lolli42/TYPO3-CMS-Catharsis
+
+#chrome extensions i use#
+* ga debugger
+* cookies editor
+* http headers

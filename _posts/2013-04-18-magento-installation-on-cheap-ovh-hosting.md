@@ -35,7 +35,7 @@ When You have the base, You could continue with instalaltion of LAMP packages re
 
     apt-get install apache2 mysql-server php5 php5-mysql php-soap php5-mcrypt php5-curl php5-gd
 
-After that, You should create the database and configure the access for MAgento user.
+After that, You should create the database and configure the access for Magento user.
 
 ### References 
 

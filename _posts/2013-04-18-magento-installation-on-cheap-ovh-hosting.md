@@ -30,6 +30,12 @@ So I order it.
 ### Hosting preparation
 
 First of all we will follow security tutorial "My First 5 Minutes On A Server" by Bryan Kennedy, it will be enough for basic level of security.
+After in my case I've configured locales and installed sudo package.
+When You have the base, You could continue with instalaltion of LAMP packages required for Magento.
+
+    apt-get install apache2 mysql-server php5 php5-mysql php-soap php5-mcrypt php5-curl php5-gd
+
+After that, You should create the database and configure the access for MAgento user.
 
 ### References 
 

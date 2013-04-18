@@ -37,6 +37,17 @@ When You have the base, You could continue with instalaltion of LAMP packages re
 
 After that, You should create the database and configure the access for Magento user.
 
+    CREATE DATABASE `magentodb` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+    GRANT ALL PRIVILEGES ON `magentodb`.* TO 'magentodbu'@'localhost' IDENTIFIED BY 'multipass';
+
+When dB ACL is Ok, check Your Apache / PHP configuration.
+
+Module rewrite should be enabled. You could check it and activate if need :
+
+    apache2ctl -M
+    a2enmod rewrite
+    /etc/init.d/apache2 restart
+
 ### References 
 
 * https://www.ovh.com/fr/commande/kimsufi.cgi?hard=132sk1

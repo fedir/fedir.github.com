@@ -1,6 +1,6 @@
 ---
 comments: true
-date: 2013-04-09 23:38:18
+date: 2013-04-18 23:58:18
 layout: post
 slug: cheap-hosting-for-magento
 title: 'Magento installation on cheap hosting'

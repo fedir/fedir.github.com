@@ -85,6 +85,10 @@ That's exact configuration, from /etc/ssmtp/ssmtp.conf
     
 You could check if the email is working by sending a password recovering email to yourself.
 
+### Tests time
+
+When all seems to be ready, make a tour over You store and if all is functional, switch the DNS from old production server to new one.
+
 ### References 
 
 * https://www.ovh.com/fr/commande/kimsufi.cgi?hard=132sk1

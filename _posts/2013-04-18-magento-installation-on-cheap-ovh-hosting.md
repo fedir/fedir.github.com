@@ -45,6 +45,13 @@ Module rewrite should be enabled. You could check it and activate if need :
 
 AllowOverride should be in All for Your Magento directory.
 
+### Store transfert
+
+Then You could make files transfer and database import into the dB Your Magento site.
+The most simple way - it's to use rsync.
+
+    rsync -av localfolder/ magento@XX.XX.XX.XX.:/home/magento/
+
 ### Database creation
 
 After that, You should create the database and configure the access for Magento user.
@@ -52,10 +59,7 @@ After that, You should create the database and configure the access for Magento 
     CREATE DATABASE `magentodb` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
     GRANT ALL PRIVILEGES ON `magentodb`.* TO 'magentodbu'@'localhost' IDENTIFIED BY 'multipass';
 
-### Store transfert
-
-Then You could make the data transfer and import into the dB Your Magento site.
-The most simple way - it's to use rsync.
+Then import transfered database into newly created structure.
 
 ### Permission normalization
 
@@ -69,7 +73,10 @@ After the import check the permissions of Your site
     
 ### Email configuration
 
-In my case, the store used Gmail address, so, the most simple solution, it was to use ssmtp server with gmail ssmtp server. It's quite secure and reliable.
+In my case, the store used Gmail address, so, the most simple solution, it was to use ssmtp server with gmail smtp server. It's quite secure and reliable.
+
+    apt-get install ssmtp
+
 That's exact configuration, from /etc/ssmtp/ssmtp.conf
 
     hostname=ksXXXXXX.kimsufi.com

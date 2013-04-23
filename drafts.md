@@ -25,6 +25,11 @@ drafts before to be published after
     chmod -R a+rx includes/
     vim /opt/php5.3/php.ini
     auto_prepend_file = /opt/php5.3/lib/php/includes/ChromePhp.php
+    
+    ChromePhp::log('Hello console!');
+    ChromePhp::log($_SERVER);
+    ChromePhp::warn('invisible warning');
+
 * http://craig.is/writing/chrome-logger
 * https://chrome.google.com/webstore/detail/chrome-logger/noaneddfkdjfnfdakjjmocngnfkfehhd
 * http://www.php.net/manual/en/ini.core.php#ini.auto-prepend-file

@@ -34,4 +34,5 @@ drafts before to be published after
 * https://chrome.google.com/webstore/detail/chrome-logger/noaneddfkdjfnfdakjjmocngnfkfehhd
 * http://www.php.net/manual/en/ini.core.php#ini.auto-prepend-file
 * https://github.com/ccampbell/chromephp
+* https://github.com/ccampbell/chromelogger
 * wget https://raw.github.com/ccampbell/chromephp/master/ChromePhp.php

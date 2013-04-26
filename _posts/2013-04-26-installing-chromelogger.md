@@ -33,12 +33,12 @@ First of all, we will identify include path and we will add ChromePHP there :
     cd .. 
     chmod -R a+rx includes/
     
-And now we will enable automatic prepending of ChromePHP library to every PHP script, which will be executed by PHP.
+And now we will enable automatic prepending of ChromePHP library to every PHP script, which will be executed by PHP :
 
     vim /opt/php5.3/php.ini
     auto_prepend_file = /opt/php5.3/lib/php/includes/ChromePhp.php
 
-It uses a little bit of ressources, so, if You would like to keep the performance, you could always make a conditional enable by a GET variable or a COOKIE value.
+It uses a little bit of ressources, so, if You would like to keep the performance, you could always make a condition by a GET variable or a COOKIE value.
 
 So now, in Your scripts You could use ChromePHP to send the debugging data without disturb others :
 

@@ -6,6 +6,7 @@ tagline: Supporting tagline
 {% include JB/setup %}
 {% assign teasers = site.posts %}
 {% assign teasers_take = 3 %}
+{% assign teasers_words = 50 %}
 
 Hi, I'm Fedir RYKHTIK, Open Source Web Developer from Toulon, France.
 
@@ -24,7 +25,7 @@ That's some articles I would like to share with You :
     {% if teaser.teaser %}
       {{ teaser.teaser }}
     {% else %}
-      {{ teaser.content | strip_html | truncatewords: 25 }}
+      {{ teaser.content | strip_html | truncatewords:teasers_words }}
     {% endif %}
   </div>
 {% endfor %}

@@ -3,7 +3,8 @@ comments: true
 date: 2013-04-26 02:15:18
 layout: post
 slug: installing-chromlogger
-title: 'Chromelogger installing and transversal use with PHP5'
+title: 'Transversal installation of Chromelogger for PHP5'
+teaser: 'Chromelogger it's a tool of console debugging. It gives You a possibility to make debug process fast and transparent, even on production server.'
 categories:
 - web
 tags:
@@ -13,15 +14,17 @@ tags:
 ---
 
 # The problem
+
 Sometimes You need to debug. It could happen in production, staging, or development.
 
-And sometimes You have no time to install and configure Zend Debugger, or XDebug. 
+And sometimes You have no time to install and configure Zend Debugger, XDebug, or other advanced PHP5 debuggers. 
 
 And, probably, You don't want to disturb other visitors of the website by Your debugging.
 
 So in this case, it's quite handy to use tools of console debugging, which sends data with the help of additional "invisible" data headers from the server to Your browser.
 
 # Solution
+
 One of such tools calls Chromlogger, it's an extension for Google Chrome browser. It's supports lots of languages and platforms : PHP, Python, Ruby, Node.js, .NET, Coldfusion.
 In my case I'm interesting in PHP logging.
 

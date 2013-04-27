@@ -11,7 +11,7 @@ Hi, I'm Fedir RYKHTIK, Open Source Web Developer from Toulon, France.
 
 I'm making sites with Open Source techologies, as Drupal, TYPO3, Wordpress, CodeIgniter, Magento.
 
-Full CV You will find on [Linkedin](http://www.linkedin.com/pub/fedir-rykhtik/14/64/a84) and that's my [Twitter account](https://twitter.com/FedirFR).
+Full CV You will find on [Linkedin](https://www.linkedin.com/pub/fedir-rykhtik/14/64/a84) and that's my [Twitter account](https://twitter.com/FedirFR).
 
 * * *
 

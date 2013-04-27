@@ -4,7 +4,7 @@ date: 2013-04-26 02:15:18
 layout: post
 slug: installing-chromlogger
 title: 'Transversal installation of Chromelogger for PHP5'
-teaser: 'Chromelogger it's a tool of console debugging. It gives You a possibility to make debug process fast and transparent, even on production server.'
+teaser: "Chromelogger it's a tool of console debugging. It gives You a possibility to make debug process fast and transparent, even on production server."
 categories:
 - web
 tags:

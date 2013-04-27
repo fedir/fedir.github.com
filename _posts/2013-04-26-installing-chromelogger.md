@@ -48,7 +48,7 @@ And now we will enable automatic prepending of ChromePHP library to every PHP sc
 
 It uses a little bit of ressources, so, if You would like to keep the performance, you could always make a condition by a GET variable or a COOKIE value.
 
-So now, in Your scripts You could use ChromePHP to send the debugging data without disturb others :
+So now, in any of Your scripts You could use ChromePHP to send the debugging data transparently without to disturb others visitors of the site:
 
     ChromePhp::log('Hello console!');
     ChromePhp::log($_SERVER);

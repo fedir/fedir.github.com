@@ -15,7 +15,7 @@ Full CV You could find on [Linkedin](http://www.linkedin.com/pub/fedir-rykhtik/1
 
 * * *
 
-## That's some articles I would like to share with You :
+##### That's some articles I would like to share with You :
 
 {% for teaser in teasers limit:teasers_take %}
   <h4><a href="{{ teaser.url }}">{{ teaser.title }}</a></h4>

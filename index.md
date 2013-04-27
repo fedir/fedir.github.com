@@ -5,7 +5,7 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 {% assign teasers = site.posts %}
-{% assign teasers_take = 6 %}
+{% assign teasers_take = 3 %}
 
 Hi, I'm Fedir RYKHTIK, Open Source Web Developer from Toulon, France.
 

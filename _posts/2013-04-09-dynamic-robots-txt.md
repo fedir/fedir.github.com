@@ -4,6 +4,7 @@ date: 2013-04-09 23:38:18
 layout: post
 slug: dynamic-robots-txt-php
 title: 'Dynamic robots.txt implementation with PHP'
+teaser: "Dynamic robots.txt file for multisites / multidomains."
 categories:
 - web
 tags:

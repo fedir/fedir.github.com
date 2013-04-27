@@ -15,10 +15,10 @@ Full CV You could find on [Linkedin](http://www.linkedin.com/pub/fedir-rykhtik/1
 
 * * *
 
-That's some articles I would like to share with You :
+## That's some articles I would like to share with You :
 
 {% for teaser in teasers limit:teasers_take %}
-  <h3><a href="{{ teaser.url }}">{{ teaser.title }}</a></h3>
+  ###<a href="{{ teaser.url }}">{{ teaser.title }}</a>###
   <div class="date">{{teaser.date | date: "%A %b %d, %Y"}}</div>
   <div class="content">
     {% if teaser.teaser %}

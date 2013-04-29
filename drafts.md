@@ -32,3 +32,4 @@ mobile applications
 * http://stackoverflow.com/questions/4559925/why-check-both-isset-and-empty
 * http://stackoverflow.com/questions/1960509/isset-and-empty-make-code-ugly/1960588#1960588
 * http://kunststube.net/isset/
+* http://php.net/manual/en/types.comparisons.php

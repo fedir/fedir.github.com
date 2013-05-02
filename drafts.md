@@ -8,9 +8,9 @@ drafts before to be published after
 * https://travis-ci.org/lolli42/TYPO3-CMS-Catharsis
 
 #chrome extensions i use
-* ga debugger
+* Google Analytics Debugger
 * cookies editor
-* http headers
+* HTTP Headers
 * readability
 * edit this cookie
 * readability redux
@@ -18,6 +18,10 @@ drafts before to be published after
 * print screen from google
 * seo site tools
 * pendule
+* JSONView
+* Open Frame in New Tab
+* Chrome Logger
+* QR-Code Tag Extension
 
 #begining of contribution to openstreetmap
 http://josm.openstreetmap.de/

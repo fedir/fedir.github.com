@@ -37,3 +37,9 @@ mobile applications
 * http://stackoverflow.com/questions/1960509/isset-and-empty-make-code-ugly/1960588#1960588
 * http://kunststube.net/isset/
 * http://php.net/manual/en/types.comparisons.php
+
+# TYPO3 surf
+* http://forge.typo3.org/projects/package-typo3-surf
+* http://www.youtube.com/watch?v=6jvHJL2djLY
+* http://etobi.de/blog/2012/05/deployment-setup-typo3-surf/
+* https://git.typo3.org/FLOW3/Packages/TYPO3.Surf.git/blob_plain/HEAD:/Documentation/Guide/Index.rst

@@ -43,3 +43,10 @@ mobile applications
 * http://www.youtube.com/watch?v=6jvHJL2djLY
 * http://etobi.de/blog/2012/05/deployment-setup-typo3-surf/
 * https://git.typo3.org/FLOW3/Packages/TYPO3.Surf.git/blob_plain/HEAD:/Documentation/Guide/Index.rst
+ 
+# Raspberry Pi
+Intro : aim to use
+First steps
+Installing OpenElec
+  http://wiki.openelec.tv/index.php?title=Installing_OpenELEC_on_Raspberry_Pi
+  build or download from http://openelec.thestateofme.com/official_images/

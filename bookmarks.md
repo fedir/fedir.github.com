@@ -19,3 +19,4 @@ tagline: Supporting tagline
 * Как не опаздывать http://lifehacker.com/diagnose-what-makes-you-late-so-you-can-fix-the-real-is-472944743
 * Изучение С++ в игре http://www.codingame.com/cg/
 * Спокойное и успешное программирование http://www.grobmeier.de/the-10-rules-of-a-zen-programmer-03022012.html
+

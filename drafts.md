@@ -50,3 +50,9 @@ First steps
 Installing OpenElec
   http://wiki.openelec.tv/index.php?title=Installing_OpenELEC_on_Raspberry_Pi
   build or download from http://openelec.thestateofme.com/official_images/
+
+# Print from shell to PDF
+
+* http://www.techytalk.info/bash-shell-output-to-printer-or-pdf/
+* http://blog.nguyenvq.com/2011/04/13/lpr-printing-on-command-line/
+* http://terokarvinen.com/2011/print-pdf-from-command-line-cups-pdf-lpr-p-pdf

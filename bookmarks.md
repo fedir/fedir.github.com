@@ -20,4 +20,5 @@ tagline: Supporting tagline
 * Изучение С++ в игре http://www.codingame.com/cg/
 * Спокойное и успешное программирование http://www.grobmeier.de/the-10-rules-of-a-zen-programmer-03022012.html
 * Выключение Raspberri PI через кнопочку и Python http://www.3cc.org/blog/2013/01/raspberry-pi-shutdown-switch-safely-turning-off-the-pi/
+* Цикл разработки с github http://habrahabr.ru/post/174467/
 

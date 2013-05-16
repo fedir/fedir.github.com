@@ -56,3 +56,12 @@ Installing OpenElec
 * http://www.techytalk.info/bash-shell-output-to-printer-or-pdf/
 * http://blog.nguyenvq.com/2011/04/13/lpr-printing-on-command-line/
 * http://terokarvinen.com/2011/print-pdf-from-command-line-cups-pdf-lpr-p-pdf
+
+# OpenLayers API hints (with demo/examples)
+* trigger an element
+* create a popup
+* create a marker
+* zoom and center
+* create multiple layers
+* make a hover
+* open and close the popup

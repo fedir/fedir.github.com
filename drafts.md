@@ -59,9 +59,60 @@ Installing OpenElec
 
 # OpenLayers API hints (with demo/examples)
 * trigger an element
+    soMarkers[soSearchResultId].events.triggerEvent('mousedown');
 * create a popup
+    var markerClick = function(evt) {
+ 				if (this.popup == null) {
+						this.popup = this.createPopup(this.closeBox);
+						map.addPopup(this.popup);
+						this.popup.show();
+						soPopups[id] = this.popup;
+					} else {
+						this.popup.toggle();
+					}
+					currentPopup = this.popup;
+					OpenLayers.Event.stop(evt);
+				};
+ 			marker.events.register("mousedown", feature, markerClick);
 * create a marker
+    var feature = new OpenLayers.Feature(layer, ll);
+ 			feature.closeBox = true;
+				feature.popupClass = popupClass;
+				feature.data.popupContentHTML = popupContentHTML;
+				feature.data.overflow = "auto";
+				feature.data.icon = new OpenLayers.Icon(
+					iconUrl,
+					new OpenLayers.Size(markerIconWidth, markerIconHeight)
+				);
+				var marker = feature.createMarker();
 * zoom and center
+    map.zoomToExtent(markersLayerDynamic.getDataExtent());
 * create multiple layers
 * make a hover
+    marker.events.register('mouseover', marker, function(evt) {
+ 				if (this.title_popup == null) {
+						this.title_popup = new OpenLayers.Popup("Popup",
+							ll_title,
+							new OpenLayers.Size(150,75),
+							titleHtml,
+							null,
+							false
+						);
+						map.addPopup(this.title_popup);
+					} else {
+						this.title_popup.show();
+					}
+				});
 * open and close the popup
+    svar markerClick = function(evt) {
+ 				if (this.popup == null) {
+						this.popup = this.createPopup(this.closeBox);
+						map.addPopup(this.popup);
+						this.popup.show();
+						soPopups[id] = this.popup;
+					} else {
+						this.popup.toggle();
+					}
+					currentPopup = this.popup;
+					OpenLayers.Event.stop(evt);
+				};

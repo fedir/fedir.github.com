@@ -123,4 +123,5 @@ Installing OpenElec
 * http://blairvanderhoof.com/gist-embed/
 	Loading a gist with both footer and line numbers removed
 * svn update dry run
+	svn merge –dry-run -r BASE:HEAD .
 	ref. : http://justaddwater.dk/2008/04/29/how-to-make-a-dry-run-with-svn-update/

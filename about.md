@@ -7,7 +7,7 @@ group: navigation
 
 Fedir RYKHTIK - I'm a web developer, living at Toulon, South of France.
 
-＃＃＃ What I'm doing
+### What I'm doing
 
 * I'm making web sites
  * backend development
@@ -17,7 +17,7 @@ Fedir RYKHTIK - I'm a web developer, living at Toulon, South of France.
  * security
  * performance optimization
 
-＃## Technos I like
+### Technos I like
 
 * TYPO3 (certified T3A)
 * Drupal
@@ -25,7 +25,7 @@ Fedir RYKHTIK - I'm a web developer, living at Toulon, South of France.
 * Linux (Mint, Debian, RHL, CentOS)
 * Magento
 
-## Languages I programm
+### Languages I programm
 
 * PHP5 (certified Zend)
 * JS
@@ -33,7 +33,7 @@ Fedir RYKHTIK - I'm a web developer, living at Toulon, South of France.
 * SQL
 * Python
 
-## Projects I ever worked on
+### Some projects I ever worked on
 
 * http://www.cg13.fr
 * http://www.cnmss.fr

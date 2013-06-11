@@ -125,3 +125,14 @@ Installing OpenElec
 * svn update dry run
 	svn merge –dry-run -r BASE:HEAD .
 	ref. : http://justaddwater.dk/2008/04/29/how-to-make-a-dry-run-with-svn-update/
+
+
+# avoiding spam problems
+
+* test tools
+ * Docs
+  * http://support.wysija.com/knowledgebase/6-golden-rules-to-avoid-being-labeled-a-spammer/
+  * http://blog.sendgrid.com/10-tips-to-keep-email-out-of-the-spam-folder/
+ * Tools 
+  * http://www.isnotspam.com/ 
+  * http://www.mail-tester.com/

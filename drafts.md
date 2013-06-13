@@ -136,3 +136,21 @@ Installing OpenElec
  * Tools 
   * http://www.isnotspam.com/ 
   * http://www.mail-tester.com/
+
+# aggregate rss feeds
+ * http://simplepie.org/wiki/tutorial/sort_multiple_feeds_by_time_and_date
+ * https://gist.github.com/smajda/204194
+
+# OpenLayers local install
+ * http://dev.openlayers.org/releases/OpenLayers-2.12/readme.md
+ * http://blog.rodolphe.quiedeville.org/index.php?post/2010/11/Installer-la-librairie-OpenLayers-sur-votre-server
+ * http://trac.osgeo.org/openlayers/wiki/HowToDownload
+
+# OpenLayers shortest path
+ * http://wiki.openstreetmap.org/wiki/RU:Routing
+ * http://wiki.openstreetmap.org/wiki/List_of_OSM_based_Services#Routing
+ * http://map.project-osrm.org/
+ * http://stackoverflow.com/questions/13481599/openstreetmap-how-to-get-the-shortest-travel-distance-by-car-between-multiple-po
+ 
+# Tilemill
+ * 

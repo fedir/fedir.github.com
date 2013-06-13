@@ -153,4 +153,25 @@ Installing OpenElec
  * http://stackoverflow.com/questions/13481599/openstreetmap-how-to-get-the-shortest-travel-distance-by-car-between-multiple-po
  
 # Tilemill
- * 
+ * http://wiki.openstreetmap.org/wiki/TileMill
+ * install : http://www.mapbox.com/tilemill/docs/linux-install/
+ * crashcourse : http://www.mapbox.com/tilemill/docs/crashcourse/introduction/
+ * exporting map : http://www.mapbox.com/tilemill/docs/crashcourse/exporting/
+  * http://stackoverflow.com/questions/5569474/what-to-do-with-mbutil-export-for-tilemill-and-mapbox/5630112#5630112
+  * https://gist.github.com/bmcbride/1818011
+ * data
+  * shapefiles : http://downloads.cloudmade.com/europe/western_europe/france
+   * http://www.mapbox.com/tilemill/docs/guides/add-shapefile/
+  * http://metro.teczno.com/ 
+ * osm-bright
+  * http://www.mapbox.com/tilemill/docs/guides/osm-bright-ubuntu-quickstart/
+   * https://github.com/mapbox/osm-bright
+ * layers
+  * http://www.mapbox.com/tilemill/docs/manual/adding-layers/ 
+  * theming : http://www.mapbox.com/tilemill/docs/guides/advanced-map-design/
+ * exporting
+ * mapbox.js : http://www.mapbox.com/mapbox.js/example/v1.0.0/draggable-marker/
+ * leaflet
+  * limit zoom level
+  * api : http://www.mapbox.com/mapbox.js/api/
+   * http://www.mapbox.com/mapbox.js/example/v1.0.0/draggable-marker/

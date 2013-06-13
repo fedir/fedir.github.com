@@ -175,3 +175,14 @@ Installing OpenElec
   * limit zoom level
   * api : http://www.mapbox.com/mapbox.js/api/
    * http://www.mapbox.com/mapbox.js/example/v1.0.0/draggable-marker/
+ * mbtiles use
+  * https://github.com/mapbox/mbtiles-spec
+  * http://jsfiddle.net/kochizufan/rj4Eh/
+  * https://pypi.python.org/pypi/umimbutil
+  * https://github.com/Zverik/mbtiles-php
+  * https://github.com/infostreams/mbtiles-php/
+   * http://projects.bryanmcbride.com/php-mbtiles-server/leaflet.html
+   * http://projects.bryanmcbride.com/php-mbtiles-server/openlayers.html
+  * http://wiki.openstreetmap.org/wiki/MBTiles
+  * https://github.com/bmcbride/PHP-MBTiles-Server
+  * http://projects.bryanmcbride.com/ol_mbtiles/  * 

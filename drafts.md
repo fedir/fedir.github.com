@@ -22,6 +22,7 @@ drafts before to be published after
 * Open Frame in New Tab
 * Chrome Logger
 * QR-Code Tag Extension
+* PHP Ninja Manual
 * ColorZilla
 
 #begining of contribution to openstreetmap

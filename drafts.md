@@ -185,4 +185,7 @@ Installing OpenElec
    * http://projects.bryanmcbride.com/php-mbtiles-server/openlayers.html
   * http://wiki.openstreetmap.org/wiki/MBTiles
   * https://github.com/bmcbride/PHP-MBTiles-Server
-  * http://projects.bryanmcbride.com/ol_mbtiles/  * 
+  * http://projects.bryanmcbride.com/ol_mbtiles/  
+* creative writing tools
+ * github full screen edit mode
+ * FocusWriter

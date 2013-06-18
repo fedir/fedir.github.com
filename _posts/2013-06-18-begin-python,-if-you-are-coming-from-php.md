@@ -3,7 +3,7 @@ comments: true
 date: 2013-06-18
 layout: post
 slug: begin-python-if-you-are-coming-from-php
-title: Begining. PHP to Python
+title: Begining Python if You are coming from PH
 teaser: Beginning with Python when You are coming from PHP world
 categories:
 - web

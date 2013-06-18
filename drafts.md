@@ -139,10 +139,6 @@ Installing OpenElec
   * http://www.isnotspam.com/ 
   * http://www.mail-tester.com/
 
-# aggregate rss feeds
- * http://simplepie.org/wiki/tutorial/sort_multiple_feeds_by_time_and_date
- * https://gist.github.com/smajda/204194
-
 # OpenLayers local install
  * http://dev.openlayers.org/releases/OpenLayers-2.12/readme.md
  * http://blog.rodolphe.quiedeville.org/index.php?post/2010/11/Installer-la-librairie-OpenLayers-sur-votre-server
@@ -187,30 +183,10 @@ Installing OpenElec
    * http://projects.bryanmcbride.com/php-mbtiles-server/openlayers.html
   * http://wiki.openstreetmap.org/wiki/MBTiles
   * https://github.com/bmcbride/PHP-MBTiles-Server
-  * http://projects.bryanmcbride.com/ol_mbtiles/  
+  * http://projects.bryanmcbride.com/ol_mbtiles/ 
+
 * creative writing tools
  * github full screen edit mode
  * FocusWriter
-
-# js validation
- * numbers and letters /^[0-9a-zA-Z]+$/;  /^[0-9a-zA-Z]+$/.test(somevar)
- * numbers /^\d+$/
- * length somevar.length==10
- * money /[1-9]\d*(?:\.\d{0,2})?/
- * birthdate /^[0123][\d]\/[01][\d]\/[12][09][\d]{2}$/i
-
-# osm importing into tilemill for personalization and further export
- * https://github.com/mapbox/mbutil
- * http://blog.thematicmapping.org/2012/09/mapping-new-zealand-extracting-tiles.html
-
-# begin python, if you are coming from php
- * http://www.php2python.com/
- * http://www.inspyration.org/tutoriels/debuter-python-lorsque-lon-vient-de-php
-
-# typo3 lts smooth migration from 4.5.x to 6.2.x
- * http://forge.typo3.org/projects/typo3cms-smoothmigration/wiki/Issues_which_need_a_check
- * http://forge.typo3.org/projects/typo3cms-smoothmigration/wiki
- * http://forge.typo3.org/news/649
- * https://github.com/nxpthx/typo3-upgradereport
 
 # ultimate prestashop server setup

@@ -8,7 +8,9 @@ teaser: $TEASER
 categories: 
 - web 
 tags: 
-- article 
+- typo3
+- migration
+- development workflow
 ---
 
 ## References

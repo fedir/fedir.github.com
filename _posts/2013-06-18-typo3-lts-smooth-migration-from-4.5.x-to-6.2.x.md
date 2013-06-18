@@ -4,7 +4,7 @@ date: 2013-06-18
 layout: post 
 slug: typo3-lts-smooth-migration-from-4.5.x-to-6.2.x 
 title: TYPO3 LTS smooth migration from 4.5.x to 6.2.x
-teaser: $TEASER 
+teaser: Notes about migration to new TYPO3 LTS
 categories: 
 - web 
 tags: 

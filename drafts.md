@@ -202,3 +202,9 @@ Installing OpenElec
 # begin python, if you are coming from php
  * http://www.php2python.com/
  * http://www.inspyration.org/tutoriels/debuter-python-lorsque-lon-vient-de-php
+
+# typo3 lts smooth migration from 4.5.x to 6.2.x
+ * http://forge.typo3.org/projects/typo3cms-smoothmigration/wiki/Issues_which_need_a_check
+ * http://forge.typo3.org/projects/typo3cms-smoothmigration/wiki
+ * http://forge.typo3.org/news/649
+ * https://github.com/nxpthx/typo3-upgradereport

@@ -19,7 +19,7 @@ Fedir RYKHTIK - I'm a web developer, living at Toulon, South of France.
 
 ### Technos I like
 
-* TYPO3 (certified T3A)
+* TYPO3 (certified by TYPO3 Association)
 * Drupal
 * OpenStreetMap
 * Linux (Mint, Debian, RHL, CentOS)

@@ -5,6 +5,7 @@
  slug: 
  title: 
  teaser: 
+ published: false
  categories:
  - web
  tags:

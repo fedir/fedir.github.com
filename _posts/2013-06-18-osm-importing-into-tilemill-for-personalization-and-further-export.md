@@ -4,11 +4,12 @@ date: 2013-06-18
 layout: post 
 slug: osm-importing-into-tilemill-for-personalization-and-further-export 
 title: OSM importing into Tilemill for personalization and further export
-teaser: $TEASER 
+teaser: Tutorial how to import OpenStreetMap data into Tilemill for further charting and exporting 
 categories:
 - web
 tags: 
 - osm
+- data
 ---
 
 ## ressources

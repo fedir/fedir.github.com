@@ -200,6 +200,8 @@ Installing OpenElec
  * birthdate /^[0123][\d]\/[01][\d]\/[12][09][\d]{2}$/i
 
 # osm importing into tilemill for personalization and further export
+ * https://github.com/mapbox/mbutil
+ * http://blog.thematicmapping.org/2012/09/mapping-new-zealand-extracting-tiles.html
 
 # begin python, if you are coming from php
  * http://www.php2python.com/

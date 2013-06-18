@@ -1,1 +1,13 @@
---- comments: true date: $DATE layout: post slug: $SLUG title: $TITLE teaser: $TEASER categories: - web tags: - article ---
+---
+ comments: true
+ date: 
+ layout: post
+ slug: 
+ title: 
+ teaser: 
+ categories:
+ - web
+ tags:
+ - article
+ ---
+

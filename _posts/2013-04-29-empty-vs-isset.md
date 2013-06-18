@@ -9,6 +9,10 @@
  categories:
  - web
  tags:
- - article
+ - php
  ---
+
+empty or isset, what should I use, ask me myself an another day.
+
+
 

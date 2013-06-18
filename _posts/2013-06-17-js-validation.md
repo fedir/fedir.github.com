@@ -12,8 +12,22 @@ tags:
 - regexp
 ---
 
-    numbers and letters /^[0-9a-zA-Z]+$/; /^[0-9a-zA-Z]+$/.test(somevar)
-    numbers /^\d+$/
+### numbers and letters 
+
+    /^[0-9a-zA-Z]+$/; /^[0-9a-zA-Z]+$/.test(somevar)
+
+### numbers
+
+    /^\d+$/
+    
+### string length
+
     length somevar.length==10
-    money /[1-9]\d*(?:.\d{0,2})?/
-    birthdate /^[0123][\d]\/[01][\d]\/[12][09][\d]{2}$/i
+
+### money format
+
+    /[1-9]\d*(?:.\d{0,2})?/
+
+### birthdate 
+
+    /^[0123][\d]\/[01][\d]\/[12][09][\d]{2}$/i

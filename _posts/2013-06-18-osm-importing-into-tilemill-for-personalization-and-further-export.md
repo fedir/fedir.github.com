@@ -10,3 +10,8 @@ categories:
 tags: 
 - osm
 ---
+
+## ressources
+
+ * https://github.com/mapbox/mbutil
+ * http://blog.thematicmapping.org/2012/09/mapping-new-zealand-extracting-tiles.html

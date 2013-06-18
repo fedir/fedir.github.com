@@ -4,7 +4,8 @@
  layout: post
  slug: 
  title: 
- teaser: 
+ teaser:
+ published: false
  categories:
  - web
  tags:

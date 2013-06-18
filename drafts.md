@@ -199,6 +199,8 @@ Installing OpenElec
  * money /[1-9]\d*(?:\.\d{0,2})?/
  * birthdate /^[0123][\d]\/[01][\d]\/[12][09][\d]{2}$/i
 
+# osm importing into tilemill for personalization and further export
+
 # begin python, if you are coming from php
  * http://www.php2python.com/
  * http://www.inspyration.org/tutoriels/debuter-python-lorsque-lon-vient-de-php
@@ -208,3 +210,5 @@ Installing OpenElec
  * http://forge.typo3.org/projects/typo3cms-smoothmigration/wiki
  * http://forge.typo3.org/news/649
  * https://github.com/nxpthx/typo3-upgradereport
+
+# ultimate prestashop server setup

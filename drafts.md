@@ -198,3 +198,7 @@ Installing OpenElec
  * length somevar.length==10
  * money /[1-9]\d*(?:\.\d{0,2})?/
  * birthdate /^[0123][\d]\/[01][\d]\/[12][09][\d]{2}$/i
+
+# begin python, if you are coming from php
+ * http://www.php2python.com/
+ * http://www.inspyration.org/tutoriels/debuter-python-lorsque-lon-vient-de-php

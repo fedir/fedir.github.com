@@ -1,30 +1,5 @@
 drafts before to be published after
 
-#TYPO3 forking#
-
-* https://github.com/lolli42/TYPO3-CMS-Catharsis
-* http://forum.typo3.org/index.php?t=msg&th=194405
-* https://github.com/dmitryd/TYPO3v4-Core
-* https://travis-ci.org/lolli42/TYPO3-CMS-Catharsis
-
-#chrome extensions i use
-* Google Analytics Debugger
-* cookies editor
-* HTTP Headers
-* readability
-* edit this cookie
-* readability redux
-* send to kindle
-* print screen from google
-* seo site tools
-* pendule
-* JSONView
-* Open Frame in New Tab
-* Chrome Logger
-* QR-Code Tag Extension
-* PHP Ninja Manual
-* ColorZilla
-
 #begining of contribution to openstreetmap
 http://josm.openstreetmap.de/
 installation

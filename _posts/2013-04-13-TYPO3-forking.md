@@ -1,7 +1,8 @@
---- comments: true
+---
+comments: true
 date: 2013-04-13
 layout: post
-slug: TYPO3-forking
+slug: typo3-forking
 title: TYPO3 forking
 teaser: Lots of people forks TYPO3 today. Is it good or bad ? 
 categories:

@@ -22,9 +22,7 @@ That's some articles I would like to share with You :
 {% for teaser in teasers limit:teasers_take %}
   <h4><a href="{{ BASE_PATH }}{{ teaser.url }}">{{ teaser.title }}</a></h4>
   <div class="date">{{teaser.date | date: "%A %b %d, %Y"}}</div>
-  {% for tag in teaser.tags limit:tags_take %}
-    {% tag %} 123
-  {% endfor %}
+ 
   <div class="content">
     {% if teaser.teaser %}
       {{ teaser.teaser }}

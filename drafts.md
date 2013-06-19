@@ -138,3 +138,12 @@ Installing OpenElec
  2. статическая реализация
  3. динамизация приложения
 
+# mnogosearch search adjustments
+## fuzzy search
+ * suffixes
+  * http://www.mnogosearch.org/doc/msearch-cmdref-spell.html
+  * http://www.mnogosearch.org/doc/msearch-fuzzy.html#ispell
+  * http://www.mnogosearch.org/Download/ispell/francais-IREQ.tar.gz
+ * stopwords
+  * http://www.mnogosearch.org/doc33/msearch-cmdref-stopwordfile.html
+  * etc/stopwords/fr.sl

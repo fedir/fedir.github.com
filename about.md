@@ -16,6 +16,8 @@ Fedir RYKHTIK - I'm a web developer, living at Toulon, South of France.
  * search engines
  * security
  * performance optimization
+* photos
+ * www.flickr.com/photos/feo-delphine
 
 ### Technos I like
 

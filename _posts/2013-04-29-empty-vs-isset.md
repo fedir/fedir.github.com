@@ -1,10 +1,10 @@
 ---
  comments: true
- date: 
+ date: 2013-04-29
  layout: post
- slug: 
- title: 
- teaser:
+ slug: empty-vs-isset
+ title: empty vs isset
+ teaser: when should you use empty, when should you use isset
  published: false
  categories:
  - web

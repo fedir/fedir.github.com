@@ -147,3 +147,7 @@ Installing OpenElec
  * stopwords
   * http://www.mnogosearch.org/doc33/msearch-cmdref-stopwordfile.html
   * etc/stopwords/fr.sl
+
+# developement stratigems
+ * implementation
+ * technology must provide different possibilities

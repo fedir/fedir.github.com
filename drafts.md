@@ -151,3 +151,10 @@ Installing OpenElec
 # developement stratigems
  * implementation
  * technology must provide different possibilities
+
+# js ressources
+ * http://casperjs.org/faq.html#faq-javascript < last item
+ * http://ejohn.org/apps/learn
+ * http://eloquentjavascript.net/contents.html
+ * http://www.codecademy.com/tracks/javascript
+ * http://www.javascriptenlightenment.com/JavaScript_Enlightenment.pdf

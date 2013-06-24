@@ -159,3 +159,9 @@ Installing OpenElec
  * http://eloquentjavascript.net/contents.html
  * http://www.codecademy.com/tracks/javascript
  * http://www.javascriptenlightenment.com/JavaScript_Enlightenment.pdf
+
+2013-06-25
+#typo3 bootstrap
+ * https://github.com/Ecodev/bootstrap_package
+ * http://bootstrap.typo3cms.demo.typo3.org/
+ * http://community.linuxmint.com/tutorial/view/486

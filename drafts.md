@@ -152,6 +152,7 @@ Installing OpenElec
  * implementation
  * technology must provide different possibilities
 
+2013-06-24
 # js ressources
  * http://casperjs.org/faq.html#faq-javascript < last item
  * http://ejohn.org/apps/learn

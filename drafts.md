@@ -165,3 +165,17 @@ Installing OpenElec
  * https://github.com/Ecodev/bootstrap_package
  * http://bootstrap.typo3cms.demo.typo3.org/
  * http://community.linuxmint.com/tutorial/view/486
+
+2013-06-25
+# fluid / fedex
+ * fluid template engine
+  * remplaces old method
+  * basic usage
+   * loops
+   * conditions
+   * forms
+   * images
+  * viewhelpers
+ * fedext
+  * http://fedext.net/overview/beginners-guide.html
+  * http://fedext.net/features/fluid-flexforms.html

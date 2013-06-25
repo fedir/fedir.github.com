@@ -179,3 +179,8 @@ Installing OpenElec
  * fedext
   * http://fedext.net/overview/beginners-guide.html
   * http://fedext.net/features/fluid-flexforms.html
+ * gists related 
+ * http://www.t3node.com/blog/combining-fluid-viewhelpers-and-typoscript-in-typo3-5-basic-examples/
+ * http://stackoverflow.com/questions/16393091/typoscript-arrays-and-using-them-in-fluid
+ * http://extensions.fedext.net/overview/extensions.html
+ * http://fedext.net/overview.html

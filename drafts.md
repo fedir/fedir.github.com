@@ -187,3 +187,12 @@ Installing OpenElec
 
 2013-07-01
 # Синтетический пост про TYPO3 conf, как у Мэтью
+
+2013-07-01
+# DevOps
+ * http://en.wikipedia.org/wiki/DevOps
+ * http://code.google.com/p/devops-toolchain/wiki/BestPractices
+ * Software
+  * http://en.wikipedia.org/wiki/Puppet_(software)
+  * http://en.wikipedia.org/wiki/Chef_(software)
+  * http://en.wikipedia.org/wiki/Salt_(software)

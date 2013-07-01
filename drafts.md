@@ -184,3 +184,6 @@ Installing OpenElec
  * http://stackoverflow.com/questions/16393091/typoscript-arrays-and-using-them-in-fluid
  * http://extensions.fedext.net/overview/extensions.html
  * http://fedext.net/overview.html
+
+2013-07-01
+# Синтетический пост про TYPO3 conf, как у Мэтью

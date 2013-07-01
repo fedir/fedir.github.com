@@ -17,4 +17,4 @@ We could interpret out Twitter stream as a music generator.
 * Sequence of notes make the music
 * White and black keys on the piano keyboard : technical messages are going together with abstract messages, to make the feed multidimensional
 * Public messages should be emotionally neutral
-* To many notes together make tha accord too complex to understand
+* To many notes together make the accord too complex to understand

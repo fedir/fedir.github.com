@@ -196,3 +196,18 @@ Installing OpenElec
   * http://en.wikipedia.org/wiki/Puppet_(software)
   * http://en.wikipedia.org/wiki/Chef_(software)
   * http://en.wikipedia.org/wiki/Salt_(software)
+
+2013-07-02
+# Web Components
+    http://www.w3.org/TR/2013/WD-components-intro-20130606/
+    http://html5-demos.appspot.com/static/webcomponents/index.html
+    http://julienvey.com/2013/02/28/dom-observe/
+    http://www.webcomponentsshift.com/
+    http://www.polymer-project.org/
+        http://www.polymer-project.org/getting-started.html
+    https://dvcs.w3.org/hg/webcomponents/raw-file/tip/explainer/index.html    
+    https://dvcs.w3.org/hg/webcomponents/raw-file/tip/spec/shadow/index.html
+    http://www.dartlang.org/articles/web-ui/#components
+    http://www.techrepublic.com/blog/webmaster/learn-more-about-web-components-with-these-demos/2477
+    http://www.youtube.com/watch?v=0g0oOOT86NY
+    http://techcrunch.com/2013/05/19/google-believes-web-components-are-the-future-of-web-development/

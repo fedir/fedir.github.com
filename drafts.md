@@ -211,3 +211,7 @@ Installing OpenElec
     http://www.techrepublic.com/blog/webmaster/learn-more-about-web-components-with-these-demos/2477
     http://www.youtube.com/watch?v=0g0oOOT86NY
     http://techcrunch.com/2013/05/19/google-believes-web-components-are-the-future-of-web-development/
+    https://github.com/termi/CreativeWork/blob/WCE/RU_ru/Web%20Components%20Explained/Translation.md
+    http://www.dartlang.org/articles/web-ui/
+    http://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/
+    http://wiki.whatwg.org/wiki/Component_Model

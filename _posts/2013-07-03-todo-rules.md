@@ -15,3 +15,5 @@ tags:
 * do not add elements, which You couldn't / wouldn't do
 * use tasks hierarchy to segment complex stuff in simple elements
 * done must be removed, only elements to do
+* todo list could be versionned
+* todo list could be distributed between teams

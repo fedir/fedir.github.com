@@ -215,3 +215,13 @@ Installing OpenElec
     http://www.dartlang.org/articles/web-ui/
     http://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/
     http://wiki.whatwg.org/wiki/Component_Model
+
+2013-07-05
+# ETL
+ * http://en.wikipedia.org/wiki/Extract,_transform,_load
+ * http://en.wikipedia.org/wiki/Category:ETL_tools
+  * http://en.wikipedia.org/wiki/Pentaho
+  * http://en.wikipedia.org/wiki/Talend_Open_Studio_for_Data_Integration
+  * http://en.wikipedia.org/wiki/Scriptella
+  * http://en.wikipedia.org/wiki/CloverETL
+  * http://en.wikipedia.org/wiki/Apatar

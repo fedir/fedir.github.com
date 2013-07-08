@@ -233,3 +233,4 @@ Installing OpenElec
  * http://docstore.mik.ua/orelly/unix/upt/ch27_06.htm
  * http://www.renault-club.ru/showthread.php?t=26053&page=5
  * http://unix.stackexchange.com/questions/8914/does-grep-use-a-cache-to-speed-up-the-searches
+ * http://stackoverflow.com/questions/5200591/how-to-use-grep-efficiently

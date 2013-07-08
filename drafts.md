@@ -225,3 +225,11 @@ Installing OpenElec
   * http://en.wikipedia.org/wiki/Scriptella
   * http://en.wikipedia.org/wiki/CloverETL
   * http://en.wikipedia.org/wiki/Apatar
+
+2013-07-08
+# Fastest grep
+ * http://stackoverflow.com/questions/9066609/fastest-possible-grep
+ * http://stackoverflow.com/questions/11095160/faster-alternative-to-unix-grep
+ * http://docstore.mik.ua/orelly/unix/upt/ch27_06.htm
+ * http://www.renault-club.ru/showthread.php?t=26053&page=5
+ * http://unix.stackexchange.com/questions/8914/does-grep-use-a-cache-to-speed-up-the-searches

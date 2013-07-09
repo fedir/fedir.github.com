@@ -234,3 +234,10 @@ Installing OpenElec
  * http://www.renault-club.ru/showthread.php?t=26053&page=5
  * http://unix.stackexchange.com/questions/8914/does-grep-use-a-cache-to-speed-up-the-searches
  * http://stackoverflow.com/questions/5200591/how-to-use-grep-efficiently
+
+2013-07-09
+# JS testing tools
+ * https://github.com/n1k0/casperjs/wiki
+ * http://jstest.jcoglan.com/slimer.html
+ * http://slimerjs.org/
+ * http://phantomjs.org/

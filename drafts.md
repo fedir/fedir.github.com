@@ -241,3 +241,4 @@ Installing OpenElec
  * http://jstest.jcoglan.com/slimer.html
  * http://slimerjs.org/
  * http://phantomjs.org/
+  * https://github.com/ariya/phantomjs/wiki/Quick-Start

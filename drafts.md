@@ -201,6 +201,7 @@ Installing OpenElec
  * http://www.opscode.com/blog/chefconf-talks/devops-patterns-distilled-implementing-the-needed-practices-in-four-practical-steps-gene-kim/
  * http://www.agileweboperations.com/devops-anti-patterns
  * http://www.computerweekly.com/cgi-bin/mt-search.cgi?IncludeBlogs=113&tag=release%20management&limit=20
+ * http://foodfightshow.org/2013/03/the-phoenix-project.html
  
 
 2013-07-02

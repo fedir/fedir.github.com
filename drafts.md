@@ -196,6 +196,8 @@ Installing OpenElec
   * http://en.wikipedia.org/wiki/Puppet_(software)
   * http://en.wikipedia.org/wiki/Chef_(software)
   * http://en.wikipedia.org/wiki/Salt_(software)
+ * http://www.ibm.com/developerworks/ru/library/a-devops2/
+ * http://www.ibm.com/developerworks/ru/library/mo-mobile-devops/
 
 2013-07-02
 # Web Components

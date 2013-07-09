@@ -261,3 +261,6 @@ Installing OpenElec
 # Python frameworks
 * https://github.com/mitsuhiko/flask
 * Django
+
+2013-07-09
+# What is an asset (computer science)

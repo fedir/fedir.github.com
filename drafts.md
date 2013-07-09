@@ -264,3 +264,8 @@ Installing OpenElec
 
 2013-07-09
 # What is an asset (computer science)
+
+2013-07-09
+# Linux LPI certification
+* http://2013.rmll.info/fr/lpi.html
+* http://www.lpi.org/

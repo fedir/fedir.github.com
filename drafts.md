@@ -242,3 +242,22 @@ Installing OpenElec
  * http://slimerjs.org/
  * http://phantomjs.org/
   * https://github.com/ariya/phantomjs/wiki/Quick-Start
+
+2013-07-09
+# JS presentation frameworks
+* Impress.js
+ * http://bartaz.github.io/impress.js
+ * https://github.com/bartaz/impress.js/wiki/Examples-and-demos
+ * http://johnpolacek.github.io/WhatTheHeckIsResponsiveWebDesign-impressjs/
+ * bartaz.github.io/meetjs/css3d-summit/
+ * https://github.com/regebro/impress-console
+ * http://lab.hakim.se/reveal-js/
+ * https://github.com/bartaz/impress.js
+* Reveal.js
+ * http://lab.hakim.se/reveal-js/
+ * https://github.com/hakimel/reveal.js
+
+2013-07-09
+# Python frameworks
+* https://github.com/mitsuhiko/flask
+* Django

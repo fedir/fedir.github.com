@@ -245,6 +245,7 @@ Installing OpenElec
 2013-07-09
 # JS testing tools
  * https://github.com/n1k0/casperjs/wiki
+  * http://blog.newrelic.com/2013/06/04/simpler-ui-testing-with-casperjs-2/
  * http://jstest.jcoglan.com/slimer.html
  * http://slimerjs.org/
  * http://phantomjs.org/

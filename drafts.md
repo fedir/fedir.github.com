@@ -286,6 +286,12 @@ Installing OpenElec
 * 
 2013-07-12
 # PHP Testing frameworks comparison
-* SimpleTest
-* PHPUnit
-* atoum https://github.com/atoum/atoum
+* compare of simple tests
+ * SimpleTest
+ * PHPUnit
+ * atoum https://github.com/atoum/atoum
+* methodology
+ * create a dev vm
+ * install lamp
+ * install frameworks
+ * testing some examples

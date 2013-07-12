@@ -277,3 +277,9 @@ Installing OpenElec
 # Linux LPI certification
 * http://2013.rmll.info/fr/lpi.html
 * http://www.lpi.org/
+
+2013-07-12
+# Ideal place of work
+* Importance of human comfort
+* Criterials
+* Examples of real companies

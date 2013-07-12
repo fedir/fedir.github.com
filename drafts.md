@@ -283,3 +283,9 @@ Installing OpenElec
 * Importance of human comfort
 * Criterials
 * Examples of real companies
+* 
+2013-07-12
+# PHP Testing frameworks comparison
+* SimpleTest
+* PHPUnit
+* atoum https://github.com/atoum/atoum

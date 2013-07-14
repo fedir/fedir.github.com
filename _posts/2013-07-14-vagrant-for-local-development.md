@@ -1,6 +1,6 @@
 --- 
 comments: true 
-date: 2013-07-04
+date: 2013-07-14
 layout: post 
 slug: vagrant-infrastructure-for-repeatable-local-development
 title: Using Vagrant for repeatable local web development

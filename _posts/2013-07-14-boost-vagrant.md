@@ -3,8 +3,8 @@ comments: true
 date: 2013-07-14
 layout: post
 slug: boost-vagrant
-title: Boost 
-teaser: a teaser
+title: Boost Vagrant
+teaser: Several tips how to make Your Vagrant to turn faster.
 categories: 
 - blog
 - web

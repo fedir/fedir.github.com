@@ -28,6 +28,7 @@ The Internet is not permanent, it's distributed and the aim of this blog : to st
 * OpenStreetMap
 * Linux (Mint, Debian, RHL, CentOS)
 * Magento
+* Python
 
 ### Languages I programm
 
@@ -38,7 +39,7 @@ The Internet is not permanent, it's distributed and the aim of this blog : to st
 * studying Python, for fun and for work
 * sometimes HTML/CSS, but more often I externalize this tasks
 
-### Some projects I ever worked on as a developer, or technical consultant
+### Some projects I ever worked on as a developer, or as a technical consultant
 
 #### Cities
 

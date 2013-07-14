@@ -28,7 +28,6 @@ The Internet is not permanent, it's distributed and the aim of this blog : to st
 * OpenStreetMap
 * Linux (Mint, Debian, RHL, CentOS)
 * Magento
-* Python
 
 ### Languages I programm
 

@@ -2,9 +2,9 @@
 comments: true 
 date: 2013-07-04
 layout: post 
-slug: vagrant-for-local-development
-title: Using Vagrant for local development
-teaser: Some notes during Vagrant-based infrastructure implementation for local LAMP development
+slug: vagrant-infrastructure-for-repeatable-local-development
+title: Using Vagrant for repeatable local web development
+teaser: Some notes during Vagrant-based infrastructure implementation for LAMP development.
 categories: 
 - web
 - blog
@@ -21,7 +21,7 @@ So, file ressources could be hosted on parent OS and virtual machine contains re
 
 The dB is shared between all developers, but each developer has it's own virtual environment, with files which are shared between guest and host.
 
-Web developer works in a folder which is shared between Vagrant and his host machine.
+Web developer works in a folder which is shared between Vagrant and his host machine. The files are externalized from virtual machine. So the developer could use tools from main OS to get maximum comfort and productivity.
 
 Each developer machine could be accessed from an external location by a web browser.
 

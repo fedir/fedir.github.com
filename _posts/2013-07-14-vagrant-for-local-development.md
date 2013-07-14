@@ -13,20 +13,28 @@ tags:
 - infrastructure
 ---
 
-### What we will do
+## What we will do
 
-For the moment, I've an idea of some independent environment, which could be shared between our devs team, which works on Linux and Windows workstations.
+For the moment, I've an idea of use of independent environments, which could be shared between our devs team, which works on Linux and Windows workstations.
 
-So, file ressources could be hosted on parent OS and virtual machine contains real development environment.
+So, file ressources could be hosted on parent OS and virtual machine contains real development environment, and the logic is porcessed by the virtual machine, which contains the environment, identic to production server.
 
+## Introduction to Vagrant concept
 
-### Introduction to Vagrant concept
+There are boxes, real virtual machines models, which You could turn inside Your workstation. You could find a big list of available vagrantboxes [here][1]. You could use some box, personalize it and distribute it.
 
-There are boxes. You could find a big list of available vagrantboxes [here][1].
-
-### Vagrantfile
+## Vagrantfile
 
 It's a configuration file, it contains information how Your virtual environment will be created, how it will communicates with parent OS.
+
+## VM machine creation and use
+
+    $ mkdir vagrant_www
+    $ cd vagrant_www
+    $ echo "<h1>Hello from a Vagrant VM</h1>" > index.html
+    $ vagrant init
+    $ vagrant box add precise64 http://files.vagrantup.com/precise64.box
+    $ vagrant ssh
 
 ### Ressources
 * Vagrant intro [http://docs-v1.vagrantup.com/v1/docs/getting-started/index.html][2]

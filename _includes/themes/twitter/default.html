@@ -84,7 +84,7 @@ $(document).ready(function() {
   var return_to_top = '<i class="icon-arrow-up back-to-top"> </i>'
 
   var level = get_level(headers[0]),
-    this_level, html = "<i>Jump to...</i> <ol>";
+    this_level, html = "<ol>";
   headers.on('click', function() {
     if (!no_back_to_top_links) window.location.hash = this.id
   }).addClass('clickable-header').each(function(_, header) {

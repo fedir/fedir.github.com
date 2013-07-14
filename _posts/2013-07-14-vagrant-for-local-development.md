@@ -53,7 +53,6 @@ It's a configuration file, it contains information how Your virtual environment 
     Vagrant::Config.run do |config|
       config.vm.box = "precise64"
       config.vm.forward_port 80, 8080
-      config.vm.provision :puppet
     end
 
 ### Web access

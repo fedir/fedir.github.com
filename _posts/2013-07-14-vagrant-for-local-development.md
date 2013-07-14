@@ -46,6 +46,7 @@ It's a configuration file, it contains information how Your virtual environment 
     $ echo "<h1>Hello from a Vagrant VM</h1>" > www/index.html
     $ vagrant init
     $ vagrant box add precise64 http://files.vagrantup.com/precise64.box
+    $ vagrant up
     $ vagrant ssh
 
 ### Vagrant file content

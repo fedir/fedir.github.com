@@ -66,6 +66,18 @@ The host web server could be accessed from host http://127.0.0.1:8080/
 * Change default vhost to /vagrant/www
 * Restart Apache
 
+## Repeat until
+
+If You have several developers, You could prepare the Vagrant box, distribute it and run on another workstation.
+
+    $ vagrant package --vagrantfile Vagrantfile.pkg
+
+    $ vagrant box add my_box /path/to/the/package.box
+    $ vagrant init my_box
+    $ vagrant up
+
+The code exchange should be done trough version control system, as git (centralized repository using branches in case when You need).
+
 ## Ressources
 * Vagrant intro http://docs-v1.vagrantup.com/v1/docs/getting-started/index.html
 * Access Vagrant machine from an external location http://stackoverflow.com/questions/12176159/connecting-to-a-vagrant-vm-externally

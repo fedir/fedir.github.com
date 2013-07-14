@@ -86,6 +86,12 @@ On the workstation of another member of Your team :
 
 The code exchange of web projects could be done trough version control system, as git (centralized repository using branches in case when You need).
 
+## Puppet
+
+Great tool to automate package management of Your box.
+
+There is a [nice GUI configurator](https://puphpet.com/), where You could parameter the key features of Your package.
+
 ## Ressources
 * Vagrant intro http://docs-v1.vagrantup.com/v1/docs/getting-started/index.html
 * Access Vagrant machine from an external location http://stackoverflow.com/questions/12176159/connecting-to-a-vagrant-vm-externally

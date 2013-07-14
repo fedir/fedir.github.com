@@ -70,13 +70,21 @@ The host web server could be accessed from host http://127.0.0.1:8080/
 
 If You have several developers, You could prepare the Vagrant box, distribute it and run on another workstation.
 
+### Package the installation
+
+You could package with Your current Vagrantfile, or create more generic Vagrantfile.pkg for packed box :
+
     $ vagrant package --vagrantfile Vagrantfile.pkg
+
+### Recreate the box
+
+On the workstation of another member of Your team :
 
     $ vagrant box add my_box /path/to/the/package.box
     $ vagrant init my_box
     $ vagrant up
 
-The code exchange should be done trough version control system, as git (centralized repository using branches in case when You need).
+The code exchange of web projects could be done trough version control system, as git (centralized repository using branches in case when You need).
 
 ## Ressources
 * Vagrant intro http://docs-v1.vagrantup.com/v1/docs/getting-started/index.html

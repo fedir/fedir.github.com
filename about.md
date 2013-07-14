@@ -7,6 +7,8 @@ group: navigation
 
 Fedir RYKHTIK - I'm a web developer, living at Toulon, South of France.
 
+The Internet is not permanent, it's distributed and the aim of this blog : to store some stuff I'm working on, to maje notes, to keep bookmarks. So my blog is kind of advanced bookmarklet, with shippets feature.
+
 ### What I'm doing
 
 * I'm making web sites

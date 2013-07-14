@@ -46,7 +46,7 @@ The Internet is not permanent, it's distributed and the aim of this blog : to st
 * http://www.meudon.fr
 * http://www.lafarlede.fr
 * http://www.ville-lagarde.fr
-* http://www.lavalette83.fr/
+* http://www.lavalette83.fr
 * http://www.brignoles.fr
 * http://www.marneetgondoire.fr
 * http://www.toulon.fr
@@ -75,9 +75,12 @@ The Internet is not permanent, it's distributed and the aim of this blog : to st
 * http://www.igesa.fr
 * http://www.smtu.nc
 * http://lien.herault.fr
+* http://www.sudformationsante.fr
+* http://www.campuspmefc.fr
+* http://www.ecolehoteliereavignon.fr
 
 #### e-stores
 
 * http://www.dakotabox.fr
 * http://www.thankyoucharlie.com
-* http://www.couleurspiruline.com/
+* http://www.couleurspiruline.com

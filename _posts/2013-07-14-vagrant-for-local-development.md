@@ -49,7 +49,7 @@ It's a configuration file, it contains information how Your virtual environment 
     $ vagrant up
     $ vagrant ssh
 
-### Vagrant file content
+### Vagrantfile content
 
     Vagrant::Config.run do |config|
       config.vm.box = "precise64"

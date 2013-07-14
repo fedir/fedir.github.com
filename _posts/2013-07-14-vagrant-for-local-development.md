@@ -19,11 +19,13 @@ For the moment, I've an idea of use of independent environments, which could be 
 
 So, file ressources could be hosted on parent OS and virtual machine contains real development environment, and the logic is porcessed by the virtual machine, which contains the environment, identic to production server.
 
-The dB is shared between all developers, but each developer has it's own virtual environment, which is shared between 
-
-Each vagrant machine of each developer could be managed from an external location by SSH, to provide automation.
+The dB is shared between all developers, but each developer has it's own virtual environment, with files which are shared between guest and host.
 
 Web developer works in a folder which is shared between Vagrant and his host machine.
+
+Each developer machine could be accessed from an external location by a web browser.
+
+Each vagrant machine of each developer could be managed from an external location by SSH, to provide maximum of automation.
 
 ## Theory
 
@@ -46,6 +48,18 @@ It's a configuration file, it contains information how Your virtual environment 
     $ vagrant box add precise64 http://files.vagrantup.com/precise64.box
     $ vagrant ssh
 
+### Vagrant file content
+
+    Vagrant::Config.run do |config|
+      config.vm.box = "precise64"
+      config.vm.forward_port 80, 8080
+      config.vm.provision :puppet
+    end
+
+### Web access
+
+The host web server could be accessed from host http://127.0.0.1:8080/
+
 ### Internal VM operations
 * Install basic LAMP stack
 * Change default Apache2 user to vagrant
@@ -55,6 +69,8 @@ It's a configuration file, it contains information how Your virtual environment 
 ## Ressources
 * Vagrant intro [http://docs-v1.vagrantup.com/v1/docs/getting-started/index.html][2]
 * Access Vagrant machine from an external location http://stackoverflow.com/questions/12176159/connecting-to-a-vagrant-vm-externally
+* http://zeroturnaround.com/rebellabs/pragmatic-devops-how-to-create-your-first-environment-with-chef-and-vagrant/
+* https://puppetlabs.com/blog/build-a-web-dev-environment-with-vagrant-and-puppet-part-2/
 
 [1]:http://www.vagrantbox.es/
 [2]:http://docs-v1.vagrantup.com/v1/docs/getting-started/index.html

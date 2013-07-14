@@ -74,5 +74,6 @@ The host web server could be accessed from host http://127.0.0.1:8080/
 * http://higherlogic.com.au/2013/vagrant-virtualbox-puppet-osx/
 * http://garylarizza.com/blog/2013/02/01/repeatable-puppet-development-with-vagrant/
 * https://jtreminio.com/2013/05/introduction_to_vagrant_puppet_and_introducing_puphpet_a_simple_to_use_vagrant_puppet_gui_configurator/
+* https://blog.serverdensity.com/many-projects-with-vagrant-and-puppet/
 
 [1]:http://www.vagrantbox.es/

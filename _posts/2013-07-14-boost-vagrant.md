@@ -19,6 +19,12 @@ The box, which You've used to create Your Vagrant virtual machine, could have no
 Default precise64 had 384 Mb of memory, when I raised it to 1024 Mb, my app was much more reactive.
 You could do it in Virtualbox properties of Your machine, when it's down.
 
+## IO
+
+You could have great gain in performance, especcially on Windows 7, if You will activate I/O APIC (I/O Advanced Programmable Interrupt Controller).
+
+    config.vm.customize ["modifyvm", :id, "--memory", "1024", "--ioapic", "on"]
+
 ## Network
 
 Vagrant works much faster with NFS on Unix systems (both Mac and Linux).
@@ -35,3 +41,4 @@ On Windows NFS doesn't work, but it works not so bad with default Virtualbox sha
 * https://coderwall.com/p/uaohzg
 * http://docs-v1.vagrantup.com/v1/docs/nfs.html
 * http://dannemanne.com/posts/increased_performance_in_vagrant
+* http://www.lefred.be/node/164

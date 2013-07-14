@@ -67,11 +67,12 @@ The host web server could be accessed from host http://127.0.0.1:8080/
 * Restart Apache
 
 ## Ressources
-* Vagrant intro [http://docs-v1.vagrantup.com/v1/docs/getting-started/index.html][2]
+* Vagrant intro http://docs-v1.vagrantup.com/v1/docs/getting-started/index.html
 * Access Vagrant machine from an external location http://stackoverflow.com/questions/12176159/connecting-to-a-vagrant-vm-externally
 * http://zeroturnaround.com/rebellabs/pragmatic-devops-how-to-create-your-first-environment-with-chef-and-vagrant/
 * https://puppetlabs.com/blog/build-a-web-dev-environment-with-vagrant-and-puppet-part-2/
 * http://higherlogic.com.au/2013/vagrant-virtualbox-puppet-osx/
+* http://garylarizza.com/blog/2013/02/01/repeatable-puppet-development-with-vagrant/
+* https://jtreminio.com/2013/05/introduction_to_vagrant_puppet_and_introducing_puphpet_a_simple_to_use_vagrant_puppet_gui_configurator/
 
 [1]:http://www.vagrantbox.es/
-[2]:http://docs-v1.vagrantup.com/v1/docs/getting-started/index.html

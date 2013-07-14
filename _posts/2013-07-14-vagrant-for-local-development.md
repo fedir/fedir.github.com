@@ -26,9 +26,9 @@ There are boxes. You could find a big list of available vagrantboxes [here][1].
 
 ### Vagrantfile
 
+It's a configuration file, it contains information how Your virtual environment will be created, how it will communicates with parent OS.
+
 ### Ressources
-* Vagrant intro [http://docs-v1.vagrantup.com/v1/docs/getting-started/index.html]
-* Vagrant intro [http://docs-v1.vagrantup.com/v1/docs/getting-started/index.html]
 * Vagrant intro (http://docs-v1.vagrantup.com/v1/docs/getting-started/index.html)
 
 [1]:http://www.vagrantbox.es/

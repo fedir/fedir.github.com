@@ -12,3 +12,9 @@ tags:
 - vagrant
 - infrastructure
 ---
+
+# 
+
+### Ressources
+* [Vagrant intro] http://docs-v1.vagrantup.com/v1/docs/getting-started/index.html
+* [Vagrant intro]: http://docs-v1.vagrantup.com/v1/docs/getting-started/index.html

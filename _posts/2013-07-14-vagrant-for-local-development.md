@@ -13,7 +13,13 @@ tags:
 - infrastructure
 ---
 
-# 
+### What we will do
+
+For the moment, I've an idea of some independent 
+
+### Introduction to Vagrant concept
+
+### Vagrantfile
 
 ### Ressources
-* Vagrant intro http://docs-v1.vagrantup.com/v1/docs/getting-started/index.html
+* Vagrant intro [http://docs-v1.vagrantup.com/v1/docs/getting-started/index.html]

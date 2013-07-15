@@ -29,3 +29,4 @@ tags:
 * QR-Code Tag Extension
 * PHP Ninja Manual
 * ColorZilla
+* Ghostery

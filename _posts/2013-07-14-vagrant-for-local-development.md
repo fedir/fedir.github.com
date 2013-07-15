@@ -101,5 +101,5 @@ There is a [nice GUI configurator](https://puphpet.com/), where You could parame
 * http://garylarizza.com/blog/2013/02/01/repeatable-puppet-development-with-vagrant/
 * https://jtreminio.com/2013/05/introduction_to_vagrant_puppet_and_introducing_puphpet_a_simple_to_use_vagrant_puppet_gui_configurator/
 * https://blog.serverdensity.com/many-projects-with-vagrant-and-puppet/
-
+* Vagrant basics (FR) http://blog.ledez.net/informatique/vagrant-ou-les-vm-pour-les-nuls/ 
 [1]:http://www.vagrantbox.es/

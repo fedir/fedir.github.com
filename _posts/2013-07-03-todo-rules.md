@@ -41,3 +41,7 @@ The person (team), who will do tasks
 ### Could I modify todo list after it was created ?
 
 TDDD aims the result, the list of todos could be optimized.
+
+### What is the difference with http://www.secretgeek.net/TODO_driv_dev.asp ?
+
+TDDD is not about code. It's about everything. It's a meta framework and paradigms which optimized for getting things done.

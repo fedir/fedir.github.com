@@ -23,14 +23,14 @@ TDDD (ToDo Driven Development) is a project management microframework, which aim
 * the absence of todos in the list is good, respect it
 * done must be removed, only elements to do are still in list
 
-## ToDo tips
-
-* todo list could be versionned
-* todo list could be distributed between teams
-
 ## Structure of TDDD list
 
 During ToDo Driven Develoment (TDDD) our list of future planning consists from do-elements, "do-s", which should be done, and (optionnaly) in which sequence. Any additional information should be classed into corresponding do-elments.
+
+## ToDo list tips
+
+* todo list could be versionned
+* todo list could be distributed between teams
 
 ## FAQ
 

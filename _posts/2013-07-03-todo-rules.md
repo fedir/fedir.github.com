@@ -40,4 +40,4 @@ The person (team), who will do tasks
 
 ### Could I modify todo list after it was created ?
 
-* TDDD aims result, the todo list could be optimized.
+TDDD aims the result, the todo list could be optimized.

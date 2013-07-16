@@ -15,7 +15,7 @@ tags:
 
 Several useful JavaScript Cheat Sheets / quick references / guides.
 
-## Resources
+## References
 * http://wps.aw.com/wps/media/objects/2234/2287950/javascript_refererence.pdf
 * http://marijnhaverbeke.nl/js-cheatsheet.html
 * http://www.dannyg.com/dl/JSB6RefBooklet.pdf

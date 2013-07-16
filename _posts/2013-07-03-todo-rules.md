@@ -19,9 +19,10 @@ TDDD (ToDo Driven Development) is a project management microframework, which aim
 
 * be as much precise as possible
 * do not add elements, which You couldn't / wouldn't do
- * use tasks hierarchy to segment complex stuff in simple elements
+* use tasks hierarchy to segment complex stuff in simple elements
 * the absence of todos in the list is good, respect it
 * done must be removed, only elements to do are still in list
+* todo is the result of task analyze, and not the task itself
 
 ## Structure of TDDD list
 

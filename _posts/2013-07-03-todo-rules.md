@@ -25,6 +25,7 @@ TDDD (ToDo Driven Development) is a project management microframework, which aim
 * todo is the result of task analyze, and not the task itself
 * you shouldn't do more, than your list, only minimal actions to achieve and eliminate do-elements
 * be fast and precise
+* you could add additional do-elements, if you understand, what it's necessary
 
 ## Structure of TDDD list
 

@@ -295,3 +295,18 @@ Installing OpenElec
  * install lamp
  * install frameworks
  * testing some examples
+
+2013-07-18
+# Version control systems use for code fluctuation organization for TYPO3 projects
+* hooks VS xlasses
+* core
+* third party extensions
+* version in branches
+* code compare
+* original code modification maintain
+* risks from them
+* risks from you
+* case by case
+* using compare/merge tools
+
+

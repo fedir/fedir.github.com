@@ -309,4 +309,16 @@ Installing OpenElec
 * case by case
 * using compare/merge tools
 
+2013-07-21
+
+server security
+	basic stuff http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers
+	port changing http://www.linux.com/learn/tutorials/305769-advanced-ssh-security-tips-and-tricks
+	
+Сравнение режимов функционирования PHP
+	Кратко 5 основных методов
+		http://www.howtoforge.com/forums/archive/index.php/t-33167.html
+	В листинге билетов блога вывести тэги после каждой записи
+	Пройтись по черновикам, сделать статьи
+
 

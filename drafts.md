@@ -359,3 +359,10 @@ path finding library
 	http://www.13accessible.com/web/app.php/balise/details/155/voir
 	http://lizpoi.3liz.com/orange/index.php/lizpoi/map/
 
+TYPO3 FE testing
+	http://buzz.typo3.org/article/testing-a-typo3-extension-on-travis/
+	http://www.zealake.com/2012/12/25/run-all-your-javascript-qunit-tests-on-every-commit/
+	http://www.zealake.com/2012/12/25/automated-build-for-your-front-end-javascript-code/
+	http://www.slideshare.net/Phase2Technology/testing-withghostsandgherkins
+
+

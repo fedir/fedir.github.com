@@ -84,3 +84,7 @@ The Internet is not permanent, it's distributed and the aim of this blog : to st
 * http://www.dakotabox.fr
 * http://www.thankyoucharlie.com
 * http://www.couleurspiruline.com
+
+<a href="http://stackexchange.com/users/317537">
+<img src="http://stackexchange.com/users/flair/317537.png" width="208" height="58" alt="profile for Fedir on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Fedir on Stack Exchange, a network of free, community-driven Q&amp;A sites">
+</a>

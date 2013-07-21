@@ -321,4 +321,41 @@ server security
 	В листинге билетов блога вывести тэги после каждой записи
 	Пройтись по черновикам, сделать статьи
 
+Материалы с конференций
+	DrupalCon videos
+		http://www.youtube.com/user/DrupalAssociation?feature=watch
+	PHP Benelux
+		http://www.youtube.com/user/PHPBenelux/videos
+	    	http://www.youtube.com/watch?v=6Ykcnzbj1ME
+	    	http://www.youtube.com/watch?v=A6pONIcs6mE
+	phpDay Italy
+		https://joind.in/event/view/1184/slides#event-tabs
+	symfony Live
+		http://lanyrd.com/2013/symfony-live/slides/
+	zend-vs-symfony
+		http://www.zfort.com/blog/zend-vs-symfony/
+
+bash if
+	http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_07_01.html
+	http://aral.iut-rodez.fr/fr/sanchis/enseignement/bash/ar01s10.html
+	
+Отчёты на блоге
+	OSM Var-1
+	Pytong’13
+	T3UNI13
+	OSM Var-2
+	WebPerf Marseille
+
+Les exceptions
+	Картографические исключения, необычная планировка, анализ, почему именно так. Иногда необъяснимо. Путешествие.
+	Пример : странные исключения карты Парижа
+
+path finding library
+	jump point
+	https://github.com/qiao/PathFinding.js/tree/master/visual
+	http://harablog.wordpress.com/2011/09/07/jump-point-search/
+
+3LizPoi
+	http://www.13accessible.com/web/app.php/balise/details/155/voir
+	http://lizpoi.3liz.com/orange/index.php/lizpoi/map/
 

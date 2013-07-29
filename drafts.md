@@ -366,3 +366,10 @@ TYPO3 FE testing
 	http://www.slideshare.net/Phase2Technology/testing-withghostsandgherkins
 
 
+
+29-07-2013
+
+# CSS automated tests
+
+* http://needle.readthedocs.org/en/latest/
+* https://github.com/Huddle/PhantomCSS

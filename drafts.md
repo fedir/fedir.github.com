@@ -384,5 +384,5 @@ It simply disables all caches.
 
 http://typo3.org/extensions/repository/view/uncache
 
-Do not forget to disable the extension in porduction.
+Do not forget to disable the plugin in production stage.
 

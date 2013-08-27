@@ -373,3 +373,16 @@ TYPO3 FE testing
 
 * http://needle.readthedocs.org/en/latest/
 * https://github.com/Huddle/PhantomCSS
+
+2013-08-27
+
+# TYPO3 Uncache
+
+The must plugin by Claus Due for TYPO3 v.6 extension development.
+
+It simply disables all caches. 
+
+http://typo3.org/extensions/repository/view/uncache
+
+Do not forget to disable the extension in porduction.
+

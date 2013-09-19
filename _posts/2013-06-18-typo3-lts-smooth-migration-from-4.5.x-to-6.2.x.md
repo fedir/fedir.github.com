@@ -19,7 +19,7 @@ Collection of links which could help to migrate Your extension from TYPO3 v.4 to
 
 * Upgrade the Core http://wiki.typo3.org/Upgrade#Upgrading_to_6.1
 * Extensions Upgrade http://wiki.typo3.org/TYPO3_6.0_Extension_Migration_Tips
-* Smooth migration extension
+- Smooth migration extension
  * http://forge.typo3.org/news/649
  * http://forge.typo3.org/projects/typo3cms-smoothmigration/wiki/Issues_which_need_a_check
  * http://forge.typo3.org/projects/typo3cms-smoothmigration/wiki

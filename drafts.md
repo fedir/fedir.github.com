@@ -390,3 +390,12 @@ Do not forget to disable the plugin in production stage.
 2013-09-19
 # Server optimization
 https://www.digitalocean.com/community/articles/how-to-install-and-configure-varnish-with-apache-on-ubuntu-12-04--3
+
+# HTML5 presentations
+http://code.google.com/p/html5slides/ html5slides
+http://bartaz.github.io/impress.js impress.js
+http://lab.hakim.se/reveal-js/#/transitions reveal.js
+deck.js http://imakewebthings.com/deck.js/#css-transition
+http://www.sitepoint.com/5-free-html5-presentation-systems/
+fathom http://markdalgleish.com/projects/fathom/
+shower http://shwr.me/

@@ -14,7 +14,7 @@
 ### lpr
 
     man -t 1 ls | lpr -P PDF
-
+    lpr -P PDF filename
 
 ### Ressources
 

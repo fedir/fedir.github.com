@@ -386,3 +386,7 @@ http://typo3.org/extensions/repository/view/uncache
 
 Do not forget to disable the plugin in production stage.
 
+
+2013-09-19
+# Server optimization
+https://www.digitalocean.com/community/articles/how-to-install-and-configure-varnish-with-apache-on-ubuntu-12-04--3

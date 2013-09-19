@@ -1,14 +1,15 @@
 ---
  comments: true
- date: 
+ date: 2013-05-14
  layout: post
- slug: 
- title: 
- teaser: 
+ slug: print-from-shell-to-pdf
+ title: Print from shell to PDF
+ teaser: How to print from shell to PDF
  categories:
  - web
  tags:
  - article
+ - pdf
  ---
 
 ### lpr

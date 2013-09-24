@@ -399,3 +399,18 @@ deck.js http://imakewebthings.com/deck.js/#css-transition
 http://www.sitepoint.com/5-free-html5-presentation-systems/
 fathom http://markdalgleish.com/projects/fathom/
 shower http://shwr.me/
+
+2013-09-24
+# CI server for PHP
+- http://stackoverflow.com/questions/9148908/what-is-the-best-ci-server-for-a-php-web-application
+ * https://www.atlassian.com/software/bamboo
+- http://forums.atlassian.com/thread.jspa?threadID=17678
+- http://jenkins-ci.org/
+- https://circleci.com/
+- https://www.codeship.io/
+- https://travis-ci.org/
+* http://net.tutsplus.com/tutorials/tools-and-tips/travis-ci-what-why-how/ 
+- https://www.cisimple.com/
+- https://hosted-ci.com/
+- http://wercker.com/ 
+- http://code.google.com/p/xinc

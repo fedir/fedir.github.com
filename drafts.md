@@ -409,7 +409,7 @@ shower http://shwr.me/
 - https://circleci.com/
 - https://www.codeship.io/
 - https://travis-ci.org/
-* http://net.tutsplus.com/tutorials/tools-and-tips/travis-ci-what-why-how/ 
+ * http://net.tutsplus.com/tutorials/tools-and-tips/travis-ci-what-why-how/ 
 - https://www.cisimple.com/
 - https://hosted-ci.com/
 - http://wercker.com/ 

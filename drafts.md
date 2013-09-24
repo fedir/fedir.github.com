@@ -419,3 +419,13 @@ shower http://shwr.me/
 # PHP design Patterns
 * https://github.com/domnikl/DesignPatternsPHP
 * http://blog.ircmaxell.com/2013/09/beyond-design-patterns.html
+
+2013-09-24
+# TYPO3 & Varnish
+* https://github.com/snowflakech/typo3-varnish/tree/master/res
+* http://typo3.org/extensions/repository/view/moc_varnish
+* https://speakerdeck.com/thijsferyn/varnish-workshop-dpc13
+* http://forge.typo3.org/projects/team-ciserver/wiki/VCL
+* http://pastebin.com/fWV2ne0N
+* http://pastebin.com/HmPbW2Ns
+* http://fr.slideshare.net/revsbech/super-performing-websites-with-typo3

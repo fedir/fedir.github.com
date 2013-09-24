@@ -414,3 +414,8 @@ shower http://shwr.me/
 - https://hosted-ci.com/
 - http://wercker.com/ 
 - http://code.google.com/p/xinc
+
+2013-09-24
+# PHP design Patterns
+* https://github.com/domnikl/DesignPatternsPHP
+* http://blog.ircmaxell.com/2013/09/beyond-design-patterns.html

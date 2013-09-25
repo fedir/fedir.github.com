@@ -434,3 +434,15 @@ shower http://shwr.me/
 # zMQ
 * http://zeromq.org/
 * http://php.zero.mq/
+
+2014-09-25
+#wkhtmltopdf on ubuntu server 12.04
+
+Installing wkhtmltopdf on Ubuntu Server 12.04 to make PDF documents from HTML.
+
+	apt-get install wkhtmltopdf
+	apt-get install xvfb
+	echo 'xvfb-run --server-args="-screen 0, 1024x768x24" /usr/bin/wkhtmltopdf $*' > /usr/bin/wkhtmltopdf.sh
+	chmod a+x /usr/bin/wkhtmltopdf.sh
+	ln -s /usr/bin/wkhtmltopdf.sh /usr/local/bin/wkhtmltopdf
+	wkhtmltopdf http://www.google.com output.pdf

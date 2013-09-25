@@ -24,4 +24,5 @@ Installing wkhtmltopdf on Ubuntu Server 12.04 to dynamically create PDF document
 
 ## References
 * https://github.com/pdfkit/pdfkit/wiki/Installing-WKHTMLTOPDF
-* http://stackoverflow.com/questions/9604625/wkhtmltopdf-cannot-connect-to-x-server 
+* http://stackoverflow.com/questions/9604625/wkhtmltopdf-cannot-connect-to-x-server
+* http://stackoverflow.com/questions/8805032/xvfb-run-error-in-ubuntu-11-04

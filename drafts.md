@@ -429,3 +429,8 @@ shower http://shwr.me/
 * http://pastebin.com/fWV2ne0N
 * http://pastebin.com/HmPbW2Ns
 * http://fr.slideshare.net/revsbech/super-performing-websites-with-typo3
+
+2013-09-25
+# zMQ
+* http://zeromq.org/
+* http://php.zero.mq/

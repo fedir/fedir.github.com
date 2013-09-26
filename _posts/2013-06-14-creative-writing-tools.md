@@ -1,4 +1,5 @@
 ---
+ layout: post
  comments: true
  date: 2013-06-14
  layout: post

@@ -13,6 +13,7 @@
  - writing
  ---
 
+
 When I'm writing I like not to be disturbed by the interface.
 
 There is three application I could recommend to make put Your writing into the flow :

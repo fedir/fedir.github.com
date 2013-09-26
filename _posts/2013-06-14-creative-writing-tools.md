@@ -1,18 +1,16 @@
 ---
- layout: post
- comments: true
- date: 2013-06-14
- layout: post
- slug: creative-writing-tools
- title: Creative writing tools
- teaser: Stuff I recommend for creative writing
- published: true
- categories:
- - web
- tags:
- - creativity
- - writing
- ---
+layout: post
+comments: true
+date: 2013-06-14
+slug: creative-writing-tools
+title: Creative writing tools
+teaser: Stuff I recommend for creative writing
+categories:
+- web
+tags:
+- creativity
+- writing
+---
 
 
 When I'm writing I like not to be disturbed by the interface.

@@ -429,6 +429,8 @@ shower http://shwr.me/
 * http://pastebin.com/fWV2ne0N
 * http://pastebin.com/HmPbW2Ns
 * http://fr.slideshare.net/revsbech/super-performing-websites-with-typo3
+* http://docs.typo3.org/typo3cms/extensions/varnish/1.0.3/
+* http://aaronbonner.io/post/14125553826/testing-varnish-vcl-syntax
 
 2013-09-25
 # zMQ

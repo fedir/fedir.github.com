@@ -437,7 +437,7 @@ shower http://shwr.me/
 * http://zeromq.org/
 * http://php.zero.mq/
 
-2014-09-25
+2013-09-25
 #wkhtmltopdf on ubuntu server 12.04
 
 Installing wkhtmltopdf on Ubuntu Server 12.04 to make PDF documents from HTML.
@@ -448,3 +448,19 @@ Installing wkhtmltopdf on Ubuntu Server 12.04 to make PDF documents from HTML.
 	chmod a+x /usr/bin/wkhtmltopdf.sh
 	ln -s /usr/bin/wkhtmltopdf.sh /usr/local/bin/wkhtmltopdf
 	wkhtmltopdf http://www.google.com output.pdf
+
+2013-09-28
+
+# Changing main partition size on VMWare Linux machine
+
+- Boot from Ubuntu Live CD
+  * Change bootscreen apperance time to 10000
+  * Put Ubuntu Live CD into Data Storage
+- Use gparted
+  * Under root
+  * Attention to swap partition
+
+References : 
+
+* http://www.keithdmitchell.com/2012/01/05/how-to-boot-from-an-iso-with-vmware-vsphere/
+* http://blog.mwpreston.net/2012/06/22/expanding-a-linux-disk-with-gparted-and-getting-swap-out-of-the-way/

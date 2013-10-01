@@ -488,5 +488,6 @@ Several links, which could help to start to develop with Extbase/Fluid for TYPO3
   * http://fr.slideshare.net/ctrabold/t3ski11-slides-unmiffyfied
   * http://de.recette-charte-gcd.w3b-experience.net/uploads/media/Documentation_Manual_en_quickstart_quickstart.pdf
   * http://docs.typo3.org/typo3cms/ExtbaseFluidBook/
+  * http://forge.typo3.org/projects/typo3v4-mvc/wiki
 
 # Script to include gists into base repository

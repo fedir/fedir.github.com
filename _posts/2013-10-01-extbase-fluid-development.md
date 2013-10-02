@@ -14,7 +14,7 @@ tags:
 
 
 - extension_builder
-  * use 2.4.7 for v.4.5 LTS
+  * use version 2.4.7 for v.4.5 LTS
   * use the latest version for v.6.x
 
 Several links, which could help to start to develop with Extbase/Fluid for TYPO3

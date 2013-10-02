@@ -21,8 +21,9 @@ Several links, which could help to start to develop with Extbase for TYPO3
 
 - Extension Builder
   * http://wiki.typo3.org/T3Doc/Extension_Builder
+  * http://wiki.typo3.org/T3Doc/Extension_Builder/Extension_Builder_Manual
   * http://wiki.typo3.org/T3Doc/Extension_Builder/Using_the_Extension_Builder
-  * http://wiki.typo3.org/T3Doc/Extension_Builder/Modifying_and_extending_the_model
+  * http://wiki.typo3.org/T3Doc/Extension_Builder/Modifying_and_extending_the_model  
 - Extbase / Fluid tutorials 
   * http://rekowski.info/home/technical/web/typo3_plugin_extbase_fluid_tutorial.md
   * http://www.hachmeister.org/2011/06/typo3-extension-mit-extbase-und-fluid/

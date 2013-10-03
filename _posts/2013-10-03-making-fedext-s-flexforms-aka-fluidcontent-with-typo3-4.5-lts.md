@@ -31,7 +31,7 @@ At the moment, it's still not merged.
 
 5. Add a Fluid content element on a test page. Choose the type of Bootstrap Elements.
 
-6. Test modifications of template.
+6. make modifications of the template to test.
 
 
 ### References

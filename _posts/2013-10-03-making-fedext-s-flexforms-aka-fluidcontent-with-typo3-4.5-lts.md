@@ -1,4 +1,4 @@
----
+ ---
 comments: true
 date: 2013-10-03
 layout: post
@@ -11,27 +11,27 @@ tags:
 - fedext
 ---
 
-1. Install the latest TYPO3 4.5. LTS
+- Install the latest TYPO3 4.5. LTS
 
-2. Install extensions :
+- Install extensions :
 
-* flux
-* vhs
-* fluidcontent
-* fluidcontent_bootstrap
+  * flux
+  * vhs
+  * fluidcontent
+  * fluidcontent_bootstrap
 
 Better to install from the github, rather TER.
 
 Flux must have this patch to work with TYPO3 4.5 LTS : https://github.com/FluidTYPO3/flux/commit/c3d3d6f4f3cad07cc47efa9599fd28a6fa022614
 At the moment, it's still not merged.
 
-3. Clear the cache.
+- Clear the cache.
 
-4. Include static TypoScript of "fluidcontent_bootstrap" into Your TS setup.
+- Include static TypoScript of "fluidcontent_bootstrap" into Your TS setup.
 
-5. Add a Fluid content element on a test page. Choose the type of Bootstrap Elements.
+- Add a Fluid content element on a test page. Choose the type of Bootstrap Elements.
 
-6. make modifications of the template to test.
+- make modifications of the template to test.
 
 
 ### References

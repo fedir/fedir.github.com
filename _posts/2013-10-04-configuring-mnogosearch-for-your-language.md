@@ -26,10 +26,14 @@ Add synonym support, the file must be situated in /mngInstallPath/etc/synonym/ f
     * http://fmg-www.cs.ucla.edu/geoff/ispell-dictionaries.html
   * configure languages
 
+Syntax :
+
     Affix [lang] [charset] [ispell affixes file name]
     Spell [lang] [charset] [ispell dictionary filename]
 
 - Add other useful configuration for better search
+
+Syntax :
 
     Dehyphenate yes
 

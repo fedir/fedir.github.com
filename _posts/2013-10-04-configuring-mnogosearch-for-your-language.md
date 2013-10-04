@@ -10,13 +10,13 @@ tags:
 - mnogosearch
 ---
 
-- Finding synonyms
+### Finding synonyms
 
 Add synonym support, the file must be situated in /mngInstallPath/etc/synonym/ folder. All the configuratioin is made relatively to etc /mngInstallPath/etc/ folder or You could use absolute path.
 
     Synonym <filename> 
 
-- Ispell / Aspell
+### Ispell / Aspell
 
   * mnoGoSearch uses ispell or aspell dictionaries and affix files
   * where to get ispell / aspell files :
@@ -31,13 +31,13 @@ Syntax :
     Affix [lang] [charset] [ispell affixes file name]
     Spell [lang] [charset] [ispell dictionary filename]
 
-- Add other useful configuration for better search
+### Add other useful configuration for better search
 
 Syntax :
 
     Dehyphenate yes
 
-- Example
+### Example
 
 The result should be like this :
 
@@ -46,7 +46,7 @@ The result should be like this :
     Spell fr utf-8 ispell/francais-utf8.dico
     Dehyphenate yes
 
-# References
+### References
 
 * http://www.mnogosearch.org/doc33/msearch-fuzzy.html
 

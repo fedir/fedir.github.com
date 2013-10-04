@@ -10,8 +10,6 @@ tags:
 - mnogosearch
 ---
 
-Configuring mnoGoSearch for Your language
-
 - Finding synonyms
 
 Add synonym support, the file must be situated in /mngInstallPath/etc/synonym/ folder. All the configuratioin is made relatively to etc /mngInstallPath/etc/ folder or You could use absolute path.

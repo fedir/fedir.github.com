@@ -47,10 +47,10 @@ Syntax :
 
 The result should be like this :
 
-    Synonym synonym/french.syn
+    Synonym synonym/french-utf8.syn
     Affix fr utf-8 ispell/francais-utf8.aff
     Spell fr utf-8 ispell/francais-utf8.dico
-    StopwordFile stopwords/fr.sl
+    StopwordFile stopwords/fr-utf8.sl
     Dehyphenate yes
 
 ### References

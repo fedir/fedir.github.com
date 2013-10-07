@@ -31,6 +31,12 @@ Syntax :
     Affix [lang] [charset] [ispell affixes file name]
     Spell [lang] [charset] [ispell dictionary filename]
 
+### Stopwords
+
+Words to exclude from indexing.
+
+    StopwordFile {filename}
+
 ### Add other useful configuration for better search
 
 Syntax :
@@ -44,6 +50,7 @@ The result should be like this :
     Synonym synonym/french.syn
     Affix fr utf-8 ispell/francais-utf8.aff
     Spell fr utf-8 ispell/francais-utf8.dico
+    StopwordFile stopwords/fr.sl
     Dehyphenate yes
 
 ### References

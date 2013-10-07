@@ -4,8 +4,10 @@ DATE=$(date +"%Y-%m-%d")
 TITLE_NORMALIZED=$(echo $TITLE | iconv -f utf8 -t ascii//TRANSLIT//IGNORE |  tr "[:upper:]" "[:lower:]"  | tr ", '" "---")
 FILENAME="$DATE-$TITLE_NORMALIZED.md"
 
-echo $FILENAME
+# Pull the repository
+git pull
 
+# Make new article
 POST=$(cat <<POST
 ---
 comments: true
@@ -22,5 +24,10 @@ tags:
 content
 POST
 )
-
 printf "%b\n" "$POST" > _posts/$FILENAME
+
+# Show new article's path
+echo "_posts/$FILENAME"
+/bin/bash: q: command not found
+echo "git commit -m \"$TITLE\""
+echo 'git push'

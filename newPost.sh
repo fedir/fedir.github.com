@@ -28,6 +28,8 @@ printf "%b\n" "$POST" > _posts/$FILENAME
 
 # Show new article's path
 echo "_posts/$FILENAME"
-/bin/bash: q: command not found
+
+# Show git helper commands
+echo "git add ."
 echo "git commit -m \"$TITLE\""
 echo 'git push'

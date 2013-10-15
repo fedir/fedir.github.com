@@ -33,7 +33,10 @@ At the moment, it's still not merged.
 
 - make modifications of the template to test.
 
+- With TYPO3 4.5 LTS You could make backend templates without fluidpages, only with Fluid to maximize the standalone compatibility
 
 ### References
 
 * fedext : https://fedext.net/
+* https://github.com/FluidTYPO3/documentation/blob/master/QuickstartGuide.md
+* http://thomas.deuling.org/de/2011/06/configure-the-fluid-typoscript-and-create-backend-templates/

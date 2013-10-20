@@ -1,6 +1,12 @@
 # Use : ./newPost.sh "post title"
 TITLE=$1
-DATE=$(date +"%Y-%m-%d")
+if [ -z "$2" ]
+then
+	DATE=$(date +"%Y-%m-%d")
+else
+	DATE="$2"
+fi
+
 TITLE_NORMALIZED=$(echo $TITLE | iconv -f utf8 -t ascii//TRANSLIT//IGNORE |  tr "[:upper:]" "[:lower:]"  | tr ", '" "---")
 FILENAME="$DATE-$TITLE_NORMALIZED.md"
 

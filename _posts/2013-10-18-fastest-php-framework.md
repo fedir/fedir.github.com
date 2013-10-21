@@ -10,7 +10,7 @@ tags:
 - blog
 ---
 
-As we could suppose, the fastest PHP framework is Phalcon.
+The fastest PHP framework is Phalcon.
 
 It's a PHP framework, which is written in C for maximal performance.
 

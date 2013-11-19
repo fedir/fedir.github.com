@@ -60,7 +60,7 @@ http://code.google.com/p/html5slides/
 
 Liked reveal.js and impress.js. The choice between them is contextual, depends from public and content.
 
-### Bonus
+## Bonus
 
 Tool to convert presentations to PDF, supports several popular engines, and even impress.js.
 

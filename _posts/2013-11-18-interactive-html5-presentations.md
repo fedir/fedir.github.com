@@ -65,7 +65,3 @@ Liked reveal.js and impress.js. The choice between them is contextual, depends f
 Tool to convert presentations to PDF, supports several popular engines, and even impress.js.
 
 https://github.com/melix/deck2pdf
-
-## Refs.
-
-http://www.sitepoint.com/5-free-html5-presentation-systems/

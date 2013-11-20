@@ -480,11 +480,10 @@ References :
   * http://www.ebay.co.uk/itm/Hotsell-433Mhz-RF-Transmitter-Receiver-Kit-For-Arduino-Raspberry-Pi-Wireless-/131027454390?pt=UK_BOI_Electrical_Components_Supplies_ET&hash=item1e81d849b6
   * http://www.pjrc.com/teensy/td_libs_VirtualWire.html
 
-# Linux Netbok
+# Linux Netbook
 
 * https://www.system76.com/laptops/
 * http://www.dell.com/fr/entreprise/p/xps-13-linux/pd
 * http://configure.euro.dell.com/dellstore/config.aspx?oc=sbnb2303&model_id=xps-13-9333&c=fr&l=fr&s=bsd&cs=frbsdt1
 * http://www.billingham.ca/LOL/Lenovo-thinkpad-T420s.html
-* 
 

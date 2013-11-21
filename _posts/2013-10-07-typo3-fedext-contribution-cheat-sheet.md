@@ -29,6 +29,11 @@ Quick notes how to participate to TYPO3 Fedext development.
 - Push to github
 - Make pull request
 
+### Fork update
+
+{% gist 6809684 %}
+
+
 ### References
 
 * https://fedext.net/overview/contributing/contribution-guide.html

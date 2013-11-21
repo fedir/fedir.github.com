@@ -29,10 +29,13 @@ Quick notes how to participate to TYPO3 Fedext development.
 - Push to github
 - Make pull request
 
+### Create, edit and push the branch to the origin
+
+{% gist 7583770 %}
+
 ### Fork update
 
 {% gist 6809684 %}
-
 
 ### References
 

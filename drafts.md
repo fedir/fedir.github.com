@@ -487,3 +487,13 @@ References :
 * http://configure.euro.dell.com/dellstore/config.aspx?oc=sbnb2303&model_id=xps-13-9333&c=fr&l=fr&s=bsd&cs=frbsdt1
 * http://www.billingham.ca/LOL/Lenovo-thinkpad-T420s.html
 
+2013-11-22
+
+# Discovering YUI
+
+* http://yuilibrary.com/yui/docs/node/node-insert.html
+* http://yuilibrary.com/yui/docs/node/
+* http://yuilibrary.com/yui/docs/examples/
+* http://yuilibrary.com/yui/docs/node/ducks.html
+* http://yuilibrary.com/yui/docs/event/simulate.html
+

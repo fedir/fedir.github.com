@@ -508,3 +508,8 @@ Vagrantfile generators
 Vagrant workflow
 
 * http://dougalmatthews.com/2011/Feb/27/my-vagrant-workflow/
+
+To read
+
+* https://wiki.opscode.com/display/chef/Vagrant
+* https://github.com/jedi4ever/veewee

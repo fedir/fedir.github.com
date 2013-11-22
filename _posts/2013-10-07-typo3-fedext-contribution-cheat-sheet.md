@@ -37,6 +37,10 @@ Quick notes how to participate to TYPO3 Fedext development.
 
 {% gist 6809684 %}
 
+### Edit a commit message in already sent pull request
+
+{% gist 7601923 %}
+
 ### References
 
 * https://fedext.net/overview/contributing/contribution-guide.html

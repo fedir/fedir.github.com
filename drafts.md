@@ -497,3 +497,14 @@ References :
 * http://yuilibrary.com/yui/docs/node/ducks.html
 * http://yuilibrary.com/yui/docs/event/simulate.html
 
+# Vagrant article
+
+Vagrantfile generators
+
+* http://vmg.slynett.com/
+* https://puphpet.com/
+* http://rove.io/
+
+Vagrant workflow
+
+* http://dougalmatthews.com/2011/Feb/27/my-vagrant-workflow/

@@ -44,3 +44,4 @@ Quick notes how to participate to TYPO3 Fedext development.
 ### References
 
 * https://fedext.net/overview/contributing/contribution-guide.html
+* http://www.turnkeylinux.org/blog/git-fix-commits

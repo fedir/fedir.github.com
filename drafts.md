@@ -513,3 +513,39 @@ To read
 
 * https://wiki.opscode.com/display/chef/Vagrant
 * https://github.com/jedi4ever/veewee
+
+## 2013-11-25
+
+### Self-hosted cloud storage
+
+	http://www.reddit.com/r/linux/comments/1efdnd/sparkleshare_owncloud_or_seafile/
+	http://crowdranking.com/crowdrankings/t610g0--the-best-self-hosted-cloud-storage-solution
+	http://blog.patshead.com/2013/04/self-hosted-cloud-storage-solution-owncloud-vs-sparkleshare.html
+
+## 2013-11-26
+
+### Galen Framework
+
+	http://galenframework.com/docs/about/
+	http://mindengine.net/post/2013-11-16-tdd-for-responsive-design-or-how-to-automate-testing-of-website-layout-for-different-devices/
+	http://galenframework.com/
+	https://github.com/ishubin/galen
+	http://galenframework.com/docs/reference-working-in-command-line/
+	https://github.com/ishubin/galen-workshop
+	http://samples.galenframework.com/tutorial1/tutorial1.html
+
+### Personal Kanban
+
+	http://gotocon.com/dl/2011/GeekNights/personal_kanban_stop_wasting_your_life.pdf
+	http://dera.ioe.ac.uk/5952/1/download%3Fid%3D17238%26filename%3Dleadership-development-and-personal-effectiveness.pdf
+
+### Responsive design testing
+
+	http://bradfrostweb.com/demo/ish/?url=http://3200tigres.wwf.fr
+	http://vanamco.com/ghostlab/
+	http://html.adobe.com/edge/inspect/
+	http://blog.mattbailey.co/post/50337824984/grunt-synchronised-testing-between-browsers-devices
+	https://github.com/marstall/shim
+	http://daker.me/2013/07/testing-your-responsive-design-with-phantomjs.html
+	casper js script
+	http://responsivetest.net/

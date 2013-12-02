@@ -37,6 +37,7 @@ Several links, which could help to start to develop with Extbase for TYPO3
   * http://forge.typo3.org/projects/typo3v4-mvc/wiki
   * http://wiki.typo3.org/Extension_Developers_Guide
   * http://wiki.typo3.org/T3Doc/Extension_Builder/Extension_Builder_Manual
+  * http://wiki.typo3.org/Extbase_HowTos
 - API
   * http://api.typo3.org/extbase/current/
   * http://api.typo3.org/extbase/13/

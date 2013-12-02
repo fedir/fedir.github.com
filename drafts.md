@@ -533,6 +533,9 @@ To read
 	http://galenframework.com/docs/reference-working-in-command-line/
 	https://github.com/ishubin/galen-workshop
 	http://samples.galenframework.com/tutorial1/tutorial1.html
+	http://galenframework.com/docs/reference-galen-test-suite-syntax/#RunninginSeleniumGrid
+	https://code.google.com/p/selenium/wiki/Grid2
+	http://www.packtpub.com/sites/default/files/downloads/Distributed_Testing_with_Selenium_Grid.pdf
 
 ### Personal Kanban
 

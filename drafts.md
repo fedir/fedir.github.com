@@ -457,11 +457,11 @@ References :
 * http://blog.mwpreston.net/2012/06/22/expanding-a-linux-disk-with-gparted-and-getting-swap-out-of-the-way/
 
 
-2013-01-01
+### 2013-01-01
 
 # Script to include gists into base repository
 
-2013-11-20
+### 2013-11-20
 
 # Controlling Arduino through the network
 
@@ -487,7 +487,7 @@ References :
 * http://configure.euro.dell.com/dellstore/config.aspx?oc=sbnb2303&model_id=xps-13-9333&c=fr&l=fr&s=bsd&cs=frbsdt1
 * http://www.billingham.ca/LOL/Lenovo-thinkpad-T420s.html
 
-2013-11-22
+### 2013-11-22
 
 # Discovering YUI
 
@@ -497,7 +497,7 @@ References :
 * http://yuilibrary.com/yui/docs/node/ducks.html
 * http://yuilibrary.com/yui/docs/event/simulate.html
 
-# Vagrant article
+### Vagrant article
 
 Vagrantfile generators
 
@@ -518,48 +518,44 @@ To read
 
 ### Self-hosted cloud storage
 
-	http://www.reddit.com/r/linux/comments/1efdnd/sparkleshare_owncloud_or_seafile/
-	http://crowdranking.com/crowdrankings/t610g0--the-best-self-hosted-cloud-storage-solution
-	http://blog.patshead.com/2013/04/self-hosted-cloud-storage-solution-owncloud-vs-sparkleshare.html
+* http://www.reddit.com/r/linux/comments/1efdnd/sparkleshare_owncloud_or_seafile/
+* http://crowdranking.com/crowdrankings/t610g0--the-best-self-hosted-cloud-storage-solution
+* http://blog.patshead.com/2013/04/self-hosted-cloud-storage-solution-owncloud-vs-sparkleshare.html
 
 ## 2013-11-26
 
 ### Galen Framework
 
-	http://galenframework.com/docs/about/
-	http://mindengine.net/post/2013-11-16-tdd-for-responsive-design-or-how-to-automate-testing-of-website-layout-for-different-devices/
-	http://galenframework.com/
-	https://github.com/ishubin/galen
-	http://galenframework.com/docs/reference-working-in-command-line/
-	https://github.com/ishubin/galen-workshop
-	http://samples.galenframework.com/tutorial1/tutorial1.html
-	http://galenframework.com/docs/reference-galen-test-suite-syntax/#RunninginSeleniumGrid
-	https://code.google.com/p/selenium/wiki/Grid2
-	http://www.packtpub.com/sites/default/files/downloads/Distributed_Testing_with_Selenium_Grid.pdf
+* http://galenframework.com/docs/about/
+* http://mindengine.net/post/2013-11-16-tdd-for-responsive-design-or-how-to-automate-testing-of-website-layout-for-different-devices/
+* http://galenframework.com/
+* https://github.com/ishubin/galen
+* http://galenframework.com/docs/reference-working-in-command-line/
+* https://github.com/ishubin/galen-workshop
+* http://samples.galenframework.com/tutorial1/tutorial1.html
+* http://galenframework.com/docs/reference-galen-test-suite-syntax/#RunninginSeleniumGrid
+* https://code.google.com/p/selenium/wiki/Grid2
+* http://www.packtpub.com/sites/default/files/downloads/Distributed_Testing_with_Selenium_Grid.pdf
 
 ### Personal Kanban
 
-	http://gotocon.com/dl/2011/GeekNights/personal_kanban_stop_wasting_your_life.pdf
-	http://dera.ioe.ac.uk/5952/1/download%3Fid%3D17238%26filename%3Dleadership-development-and-personal-effectiveness.pdf
+* http://gotocon.com/dl/2011/GeekNights/personal_kanban_stop_wasting_your_life.pdf
+* http://dera.ioe.ac.uk/5952/1/download%3Fid%3D17238%26filename%3Dleadership-development-and-personal-effectiveness.pdf
 
 ### Responsive design testing
 
-	http://bradfrostweb.com/demo/ish/?url=http://3200tigres.wwf.fr
-	http://vanamco.com/ghostlab/
-	http://html.adobe.com/edge/inspect/
-	http://blog.mattbailey.co/post/50337824984/grunt-synchronised-testing-between-browsers-devices
-	https://github.com/marstall/shim
-	http://daker.me/2013/07/testing-your-responsive-design-with-phantomjs.html
-	casper js script
-	http://responsivetest.net/
+* http://bradfrostweb.com/demo/ish/?url=http://3200tigres.wwf.fr
+* http://vanamco.com/ghostlab/
+* http://html.adobe.com/edge/inspect/
+* http://blog.mattbailey.co/post/50337824984/grunt-synchronised-testing-between-browsers-devices
+* https://github.com/marstall/shim
+* http://daker.me/2013/07/testing-your-responsive-design-with-phantomjs.html
+* casper js script
+* http://responsivetest.net/
 
+### 2013-12-02
 
-
-
-
-2013-12-02
-
-# Cool stuff (site section)
+#### Cool stuff (site section)
 
 * http://tympanus.net/codrops/2013/11/27/svg-icons-ftw/ svg icons
 * http://ionicframework.com/ HTML5 mobile framework
@@ -574,16 +570,12 @@ To read
 * Tiny JS hacks to make Your code smarter https://gist.github.com/fedir/7750551
 * http://www.youtube.com/watch?v=XMfz8Cbyxl0
 
-2013-12-03
-
-# Cool stuff
+### 2013-12-03
 
 * http://www.matthias-witte.net/tutorial-overview/
 * https://github.com/mwitte/Witte-Kanban
 
-2013-12-04
-
-# Cool stuff
+### 2013-12-04
 
 * http://oembed.com/
 * http://forge.typo3.org/projects/typo3v4-mvc/wiki/Fluid_Widgets
@@ -595,16 +587,13 @@ To read
 * https://f-droid.org/
 * http://www.f-secure.com/static/doc/labs_global/Research/Mobile_Threat_Report_Q3_2013.pdf
 
-# Developer's Humor
+#### Developer's Humor
 
 * https://twitter.com/hipsterhacker
 * https://twitter.com/NeckbeardHacker
 * https://twitter.com/iamdevloper
 
-
-#### Thoughts // Thoughts from the other side of the Internet // Microblogging
-
-2013-1205
+### 2013-1205
 
 * Phonegap boox
  * http://www.amazon.com/PhoneGap-Essentials-Building-Cross-Platform-Mobile/dp/0321814290/
@@ -614,7 +603,7 @@ To read
  * http://www.amazon.com/Super-Scratch-Programming-Adventure-Program/dp/1593274092/
  * meld comparing
 
-2013-12-06
+### 2013-12-06
 
 * https://github.com/gnab/remark
 * https://github.com/getpelican/pelican
@@ -627,7 +616,7 @@ To read
 * Сон в красном тереме
 * https://www.youtube.com/watch?v=KzufrpGxWQU
 
-2013-12-11
+### 2013-12-11
 
 * http://neos.typo3.org/homepage.html
 * http://cibonfire.com/
@@ -639,7 +628,7 @@ To read
 	* http://www.thoughtcrime.org/software/sslstrip/
 * http://forge.typo3.org/projects/typo3v4-mvc/wiki/Default_Orderings_and_Query_Settings_in_Repository
 
-2013-12-12
+### 2013-12-12
 
 * fedext
  * last version compatible 4.5
@@ -650,7 +639,7 @@ To read
  * http://typo3.org/extensions/repository/view/sjr_offers
 
 
-2013-12-13
+### 2013-12-13
 
 * http://blog.typoplanet.de/2010/01/27/the-repository-and-query-object-of-extbase/
 * http://docs.typo3.org/neos/TYPO3NeosDocumentation/
@@ -659,7 +648,7 @@ To read
 * http://wiki.typo3.org/Fluid#f:for
 * http://wiki.typo3.org/Extbase_HowTos
 
-2013-12-16
+### 2013-12-16
 
 * dynamic openlayers image markers
 	* svg string generation from data
@@ -670,34 +659,34 @@ To read
 	* http://www.nihilogic.dk/labs/canvas2image/
 	* http://caniuse.com/canvas
 
-2013-12-17
+### 2013-12-17
 
- * bash git prompt
-	* http://code-worrier.com/blog/git-branch-in-bash-prompt/
-	* https://help.ubuntu.com/community/CustomizingBashPrompt
- * zsh
-	* http://fr.slideshare.net/jaguardesignstudio/why-zsh-is-cooler-than-your-shell-16194692
- * ROS
-	* http://www.ros.org/
-	* http://www.willowgarage.com/pages/software/ros-platform
-	* http://wiki.ros.org/
-	* http://www.packtpub.com/learning-ros-for-robotics-programming/book
+* bash git prompt
+ * http://code-worrier.com/blog/git-branch-in-bash-prompt/
+ * https://help.ubuntu.com/community/CustomizingBashPrompt
+* zsh
+ * http://fr.slideshare.net/jaguardesignstudio/why-zsh-is-cooler-than-your-shell-16194692
+* ROS
+ * http://www.ros.org/
+ * http://www.willowgarage.com/pages/software/ros-platform
+ * http://wiki.ros.org/
+ * http://www.packtpub.com/learning-ros-for-robotics-programming/book
 * css masks
-	* http://blog.rjzaworski.com/2011/03/masking-images-with-css-and-jquery/
+ * http://blog.rjzaworski.com/2011/03/masking-images-with-css-and-jquery/
 * extbase
-	* http://blog.typoplanet.de/2012/04/19/difference-between-entity-and-valueobject/
-	* http://blog.typoplanet.de/2010/01/27/the-repository-and-query-object-of-extbase/
-	* http://blog.typoplanet.de/2009/07/16/a-walk-trough-the-persistence-layer-of-extbase/
+ * http://blog.typoplanet.de/2012/04/19/difference-between-entity-and-valueobject/
+ * http://blog.typoplanet.de/2010/01/27/the-repository-and-query-object-of-extbase/
+ * http://blog.typoplanet.de/2009/07/16/a-walk-trough-the-persistence-layer-of-extbase/
 * json & yaml (extension builder case)
-	* http://jsontoyaml.com/
-	* http://yamltojson.com/
-	* http://jsonviewer.stack.hu/
+ * http://jsontoyaml.com/
+ * http://yamltojson.com/
+ * http://jsonviewer.stack.hu/
 
-2013-12-28
+### 2013-12-28
 
 * http://www.ozon.ru/context/detail/id/5430638/
 
-2014-01-02
+### 2014-01-02
 
 * http://habrahabr.ru/post/207978/
 * http://www.smashingmagazine.com/2013/12/27/open-sourcing-projects-guide-getting-started/
@@ -711,9 +700,8 @@ To read
  * http://www.orsys.fr/formation-securite-avancee-application-web.asp
  * http://www.orsys.fr/formation-php5-securite.asp
 
-2014-01-03
+### 2014-01-03
+
 * install sun java on linux mint
  * http://www.techlw.com/2012/07/install-sun-java-6-or-7-in-ubuntu-1204.html
  * http://samuelcroset.com/content/how-install-sun-java-6-linux-mint-13
-
-

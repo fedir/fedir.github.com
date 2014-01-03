@@ -552,3 +552,168 @@ To read
 	http://daker.me/2013/07/testing-your-responsive-design-with-phantomjs.html
 	casper js script
 	http://responsivetest.net/
+
+
+
+
+
+2013-12-02
+
+# Cool stuff (site section)
+
+* http://tympanus.net/codrops/2013/11/27/svg-icons-ftw/ svg icons
+* http://ionicframework.com/ HTML5 mobile framework
+* http://threejs.org/ 3D framework
+* http://www.videogular.com/ Video JS player responsive
+* http://beta.swipe.to/markdown/ presentation in markdown
+* http://www.gsmarena.com/sailfishbased_jolla_hits_the_shelves_today-news-7270.php https://sailfishos.org/
+* http://devdocs.io/ Lot's of API docs
+* http://docpad.org/ Rapid web devlopement
+* http://davidshariff.com/quiz/ Testing CSS skills
+* http://www.t3ee.org/fileadmin/cluj/TYPO3_Hosting_Questions_at_T3EE13.pdf
+* Tiny JS hacks to make Your code smarter https://gist.github.com/fedir/7750551
+* http://www.youtube.com/watch?v=XMfz8Cbyxl0
+
+2013-12-03
+
+# Cool stuff
+
+* http://www.matthias-witte.net/tutorial-overview/
+* https://github.com/mwitte/Witte-Kanban
+
+2013-12-04
+
+# Cool stuff
+
+* http://oembed.com/
+* http://forge.typo3.org/projects/typo3v4-mvc/wiki/Fluid_Widgets
+
+* http://stackoverflow.com/a/10739483/634275 Ajax in Extbase
+* http://forge.typo3.org/projects/typo3v4-mvc/wiki/Fluid_Widgets
+* https://twitter.com/agnoster/status/44636629423497217
+* http://tartley.com/?p=1267
+* https://f-droid.org/
+* http://www.f-secure.com/static/doc/labs_global/Research/Mobile_Threat_Report_Q3_2013.pdf
+
+# Developer's Humor
+
+* https://twitter.com/hipsterhacker
+* https://twitter.com/NeckbeardHacker
+* https://twitter.com/iamdevloper
+
+
+#### Thoughts // Thoughts from the other side of the Internet // Microblogging
+
+2013-1205
+
+* Phonegap boox
+ * http://www.amazon.com/PhoneGap-Essentials-Building-Cross-Platform-Mobile/dp/0321814290/
+* Programming for kids
+ * http://www.amazon.com/Hello-World-Computer-Programming-Beginners/dp/1617290920/
+ * http://www.amazon.com/Computational-Fairy-Tales-Jeremy-Kubica/dp/1477550291/ref=pd_sim_b_8
+ * http://www.amazon.com/Super-Scratch-Programming-Adventure-Program/dp/1593274092/
+ * meld comparing
+
+2013-12-06
+
+* https://github.com/gnab/remark
+* https://github.com/getpelican/pelican
+* http://ebooknew.net/
+* http://yakovfain.com/2013/06/30/how-we-write-a-book-for-oreilly/
+
+2013-12-09
+
+* http://www.kormoc.com/2012/11/18/convert-a-php-object-to-an-array/
+* Сон в красном тереме
+* https://www.youtube.com/watch?v=KzufrpGxWQU
+
+2013-12-11
+
+* http://neos.typo3.org/homepage.html
+* http://cibonfire.com/
+* http://dev.by/blogs/main/kak-vyyti-pobeditelem-iz-programmerskogo-sobesedovaniya
+	* http://www.restlessprogrammer.com/2013/09/hacking-coding-interview.html
+* SSL Hacking
+	* http://www.xakep.ru/magazine/xa/125/026/1.asp 
+	* http://www.thoughtcrime.org/projects.html
+	* http://www.thoughtcrime.org/software/sslstrip/
+* http://forge.typo3.org/projects/typo3v4-mvc/wiki/Default_Orderings_and_Query_Settings_in_Repository
+
+2013-12-12
+
+* fedext
+ * last version compatible 4.5
+* elastic search
+ * https://github.com/lindstromhenrik/elasticsearch-analysis-file-watcher-synonym
+ * https://github.com/nickdunn/elasticsearch#es-multilingual-search
+ * https://gist.github.com/clintongormley/4095280
+ * http://typo3.org/extensions/repository/view/sjr_offers
+
+
+2013-12-13
+
+* http://blog.typoplanet.de/2010/01/27/the-repository-and-query-object-of-extbase/
+* http://docs.typo3.org/neos/TYPO3NeosDocumentation/
+* http://www.typo3forum.net/forum/alle-anderen-extensions/49581-extbase-get-post-paramter-holen.html
+* http://www.kaktusteam.de/uploads/media/extbase.pdf
+* http://wiki.typo3.org/Fluid#f:for
+* http://wiki.typo3.org/Extbase_HowTos
+
+2013-12-16
+
+* dynamic openlayers image markers
+	* svg string generation from data
+	* convert svg to png
+	* http://antimatter15.com/wp/2010/07/javascript-to-animated-gif/
+	* http://stackoverflow.com/questions/13416800/how-to-generate-an-image-from-imagedata-in-javascript
+	* http://stackoverflow.com/questions/923885/capture-html-canvas-as-gif-jpg-png-pdf
+	* http://www.nihilogic.dk/labs/canvas2image/
+	* http://caniuse.com/canvas
+
+2013-12-17
+
+ * bash git prompt
+	* http://code-worrier.com/blog/git-branch-in-bash-prompt/
+	* https://help.ubuntu.com/community/CustomizingBashPrompt
+ * zsh
+	* http://fr.slideshare.net/jaguardesignstudio/why-zsh-is-cooler-than-your-shell-16194692
+ * ROS
+	* http://www.ros.org/
+	* http://www.willowgarage.com/pages/software/ros-platform
+	* http://wiki.ros.org/
+	* http://www.packtpub.com/learning-ros-for-robotics-programming/book
+* css masks
+	* http://blog.rjzaworski.com/2011/03/masking-images-with-css-and-jquery/
+* extbase
+	* http://blog.typoplanet.de/2012/04/19/difference-between-entity-and-valueobject/
+	* http://blog.typoplanet.de/2010/01/27/the-repository-and-query-object-of-extbase/
+	* http://blog.typoplanet.de/2009/07/16/a-walk-trough-the-persistence-layer-of-extbase/
+* json & yaml (extension builder case)
+	* http://jsontoyaml.com/
+	* http://yamltojson.com/
+	* http://jsonviewer.stack.hu/
+
+2013-12-28
+
+* http://www.ozon.ru/context/detail/id/5430638/
+
+2014-01-02
+
+* http://habrahabr.ru/post/207978/
+* http://www.smashingmagazine.com/2013/12/27/open-sourcing-projects-guide-getting-started/
+* http://roboclub.dn.ua/
+* xhprof
+ * http://erichogue.ca/2011/03/linux/profiling-a-php-application/
+ * http://techportal.inviqa.com/2009/12/01/profiling-with-xhprof/
+* formation securité web
+ * http://www.valtech-training.fr/formation/developpement-web/hacking/
+ * http://www.orsys.fr/formation-securite-application-web.asp
+ * http://www.orsys.fr/formation-securite-avancee-application-web.asp
+ * http://www.orsys.fr/formation-php5-securite.asp
+
+2014-01-03
+* install sun java on linux mint
+ * http://www.techlw.com/2012/07/install-sun-java-6-or-7-in-ubuntu-1204.html
+ * http://samuelcroset.com/content/how-install-sun-java-6-linux-mint-13
+
+

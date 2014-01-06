@@ -13,11 +13,11 @@ tags:
 - robots.txt
 ---
 
-# The problem
+## The problem
 
 Recently I discovered what on some multidomain sites I made, I had the same robots.txt file for all the sites, which has multiple domains. That created some confusions for search engines, even for external one, based on mnoGoSearch technology.
 
-# Solution
+## Solution
 
 So, dynamic robots.txt should be done, which changes robots.txt content conditionally and dynamically.
 
@@ -31,21 +31,21 @@ With Apache You could make simple .htaccess rule to acheive that.
 
 And after we could make whatever we want, to generate robots.txt of our dream in the best way.
 
-    <?php
-    error_reporting(0);
-    // read static robots.txt template
-    $robotsTxt = @file_get_contents('robots.txt');
-    ...
-    # make some operations with default template
-    ...
-    header("Content-Type:text/plain");
-    echo $robotsTxt;
+     <?php
+     error_reporting(0);
+     // read static robots.txt template
+     $robotsTxt = @file_get_contents('robots.txt');
+     ...
+     # make some operations with default template
+     ...
+     header("Content-Type:text/plain");
+     echo $robotsTxt;
 
-# Bonuses
+## Bonuses
 
 You could make conditions based on user-agents to avoid the indexation by spiders You don't need.
 
-##Ressources
+## Ressources
 
 * http://forums.oscommerce.com/topic/380271-dynamic-robotstxt-to-stop-worthless-traffic/
 * http://blog.bannasties.com/2012/07/how-to-implement-your-dynamic-robots-txt/

@@ -12,7 +12,7 @@ tags:
 - gitlab
 ---
 
-If You would like to script Gitlab projects creation, You could manage Gitlab and its projects from shell
+If You would like to script Gitlab group and projects creation, users management, You could manage Gitlab and its projects from shell.
 
 For actual version of Gitab, I could recommend python-gitlab, which works flawessly with Gitlab API V3.
 
@@ -29,9 +29,11 @@ If You will have errors during installation, try to install python-pip :
 
 ## Configuration
 
-Create ~/.python-gitlab.cfg :
+Create the configuration file :
 
-vim ~/.python-gitlab.cfg
+	vim ~/.python-gitlab.cfg
+
+With following contents :
 
 	[global]
 	default = local
@@ -65,7 +67,6 @@ vim ~/.python-gitlab.cfg
 	gitlab group create --name=project --path=project
 	gitlab project create --name=cg06-content --namespace-id=3
 	gitlab group-member create --group-id=3 --user-id=4 --access-level=50
-
 
 ## Ressources
 

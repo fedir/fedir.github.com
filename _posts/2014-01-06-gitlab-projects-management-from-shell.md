@@ -8,13 +8,13 @@ categories:
 - web
 tags:
 - blog
+- git
+- gitlab
 ---
 
 If You would like to script Gitlab projects creation, You could manage Gitlab and its projects from shell
 
 For actual version of Gitab, I could recommend python-gitlab, wichh works flawessly with Gitlab API V3.
-
-------------------------------------------------------------------------
 
 ##  Installation
 
@@ -26,40 +26,38 @@ Download from https://github.com/gpocentek/python-gitlab
 
 ## Configuration
 
-~/.python-gitlab.cfg
+Create ~/.python-gitlab.cfg
 
-  [global]
-  default = local
-  ssl_verify = true
-  
-  [local]
-  url = https://gitlab.url/
-  private_token = PRIVATE_TOKEN_FROM_YOUR_ACCOUNT
-  
-  [distant]
-  url = https://distant.gitlab.url/
-  private_token = PRIVATE_TOKEN_FROM_YOUR_ACCOUNT
-  ssl_verify = false
+	[global]
+	default = local
+	ssl_verify = true
+	
+	[local]
+	url = https://gitlab.url/
+	private_token = PRIVATE_TOKEN_FROM_YOUR_ACCOUNT
+	
+	[distant]
+	url = https://distant.gitlab.url/
+	private_token = PRIVATE_TOKEN_FROM_YOUR_ACCOUNT
+	ssl_verify = false
 
 ### Documentation
 
-gitlab --help
-gitlab project help
-gitlab team help
-gitlab team-project help
-gitlab group help
-gitlab team help
-gitlab user help
-gitlab group-member help
+	gitlab --help
+	gitlab project help
+	gitlab team help
+	gitlab team-project help
+	gitlab group help
+	gitlab team help
+	gitlab user help
+	gitlab group-member help
 
 ### Usage
 
-gitlab project list
-gitlab team list
-gitlab user list
-
-gitlab group create --name=project --path=project
-gitlab project create --name=cg06-content --namespace-id=3
-
-gitlab group-member create --group-id=3 --user-id=4 --access-level=50
+	gitlab project list
+	gitlab team list
+	gitlab user list
+	gitlab group create --name=project --path=project
+	gitlab project create --name=cg06-content --namespace-id=3
+	gitlab group-member create --group-id=3 --user-id=4 --access-level=50
 

@@ -16,17 +16,22 @@ If You would like to script Gitlab projects creation, You could manage Gitlab an
 
 For actual version of Gitab, I could recommend python-gitlab, which works flawessly with Gitlab API V3.
 
-##  Installation
+## Installation
 
-Download from https://github.com/gpocentek/python-gitlab
+Clone the project from https://github.com/gpocentek/python-gitlab :
+
+	git clone https://github.com/gpocentek/python-gitlab.git
+	python setup.py install
+
+If You will have errors during installation, try to install python-pip :
 
 	sudo apt-get install python-pip
-	python setup.py install
-	vim ~/.python-gitlab.cfg
 
 ## Configuration
 
-Create ~/.python-gitlab.cfg
+Create ~/.python-gitlab.cfg :
+
+vim ~/.python-gitlab.cfg
 
 	[global]
 	default = local
@@ -60,3 +65,9 @@ Create ~/.python-gitlab.cfg
 	gitlab group create --name=project --path=project
 	gitlab project create --name=cg06-content --namespace-id=3
 	gitlab group-member create --group-id=3 --user-id=4 --access-level=50
+
+
+## Ressources
+
+* https://github.com/gpocentek/python-gitlab
+* http://gauvain.pocentek.net/taxonomy/term/62

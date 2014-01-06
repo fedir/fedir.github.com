@@ -41,7 +41,7 @@ Create ~/.python-gitlab.cfg
 	private_token = PRIVATE_TOKEN_FROM_YOUR_ACCOUNT
 	ssl_verify = false
 
-### Documentation
+## Documentation
 
 	gitlab --help
 	gitlab project help
@@ -52,7 +52,7 @@ Create ~/.python-gitlab.cfg
 	gitlab user help
 	gitlab group-member help
 
-### Usage
+## Usage
 
 	gitlab project list
 	gitlab team list

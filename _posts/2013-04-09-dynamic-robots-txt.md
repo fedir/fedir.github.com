@@ -21,7 +21,7 @@ Recently I discovered what on some multidomain sites I made, I had the same robo
 
 So, dynamic robots.txt should be done, which changes robots.txt content conditionally and dynamically.
 
-# Methods
+## Methods
 
 First of all You should make a substituition of url /robots.txt with dynamic script, which will generate the output, for example : robots.php
 

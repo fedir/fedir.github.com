@@ -60,4 +60,3 @@ Create ~/.python-gitlab.cfg
 	gitlab group create --name=project --path=project
 	gitlab project create --name=cg06-content --namespace-id=3
 	gitlab group-member create --group-id=3 --user-id=4 --access-level=50
-

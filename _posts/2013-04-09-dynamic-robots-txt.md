@@ -29,9 +29,8 @@ With Apache You could make simple .htaccess rule to acheive that.
 
      RewriteRule  ^robots\.txt$ /robots.php [NC,L]
 
-And after we could make whatever we want, to generate robots.txt of our dream in the best way.
+And after we could make whatever we want, to generate robots.txt of our dream in the best way with the help of PHP.
 
-     <?php
      error_reporting(0);
      // read static robots.txt template
      $robotsTxt = @file_get_contents('robots.txt');

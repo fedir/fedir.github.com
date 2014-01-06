@@ -14,7 +14,7 @@ tags:
 
 If You would like to script Gitlab projects creation, You could manage Gitlab and its projects from shell
 
-For actual version of Gitab, I could recommend python-gitlab, wichh works flawessly with Gitlab API V3.
+For actual version of Gitab, I could recommend python-gitlab, which works flawessly with Gitlab API V3.
 
 ##  Installation
 

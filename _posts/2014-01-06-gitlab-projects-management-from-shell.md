@@ -21,6 +21,7 @@ For actual version of Gitab, I could recommend python-gitlab, which works flawes
 Clone the project from https://github.com/gpocentek/python-gitlab :
 
 	git clone https://github.com/gpocentek/python-gitlab.git
+	cd python-gitlab
 	python setup.py install
 
 If You will have errors during installation, try to install python-pip :

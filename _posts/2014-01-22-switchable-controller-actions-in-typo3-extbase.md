@@ -12,7 +12,7 @@ tags:
 
 When You devloping TYPO3 modules with Extbase, You could have a situation, when You have multiple variations of the same plugin, in this example, I will show how to 
 
-### Code
+## Code
 
 First, You need to register the flexform to configure the plugin in back end. Second, You should add actions, which would be available for each plugin's configuration variation.
 

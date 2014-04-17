@@ -26,6 +26,8 @@ HHVM is quite stable now.
 
 ### Nginx configuration
 
+This configuraton initially made by Philipp Bergsmann includes a fallback to PHP FPM if there is a problem with HHVM on some of Your atypical modules, which were still not well tested on HHVM.
+
 {% gist 10968146 %}
 
 ## References

@@ -34,3 +34,5 @@ HHVM is quite stable now.
 * http://blog.snowflake.ch/2014/04/03/typo3-mit-hhvm-howto-debian-wheezy-apache2/
 * http://www.ph-bergsmann.com/typo3/2014/04/04/typo3-hhvm-speed-comparison/
 * http://translate.google.com/translate?depth=1&hl=en&rurl=translate.google.com&sl=de&tl=en&u=http://blog.snowflake.ch/2014/04/14/showdown-hhvm-vs-php5-fcgi-vs-php5-fpm
+* http://blog.macopedia.co/pl/post/running-typo3-cms-on-hhvm-part1/
+* http://hhvm.com/blog/1817/fastercgi-with-hhvm

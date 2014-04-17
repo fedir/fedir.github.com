@@ -10,6 +10,8 @@ tags:
 - blog
 ---
 
+## About
+
 New version of TYPO3 6.2 LTS is now available. It brings new level of the quality and functionality.
 Probably on some old hardware which hosts big sites You will have some difference in the performance of the system.
 In this case I could try HHVM, HipHop Virtual Engine, which replaces traditional FCGI and PHP-FPM approach.

@@ -38,3 +38,4 @@ This configuraton initially made by Philipp Bergsmann includes a fallback to PHP
 * http://translate.google.com/translate?depth=1&hl=en&rurl=translate.google.com&sl=de&tl=en&u=http://blog.snowflake.ch/2014/04/14/showdown-hhvm-vs-php5-fcgi-vs-php5-fpm
 * http://blog.macopedia.co/pl/post/running-typo3-cms-on-hhvm-part1/
 * http://hhvm.com/blog/1817/fastercgi-with-hhvm
+* http://blog.macopedia.co/en/post/running-typo3-cms-on-hhvm-part2

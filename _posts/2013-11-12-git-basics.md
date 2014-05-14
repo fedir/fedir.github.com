@@ -1,6 +1,6 @@
 ---
 comments: true
-date: {}
+date: 2013-11-12
 layout: post
 slug: "git-basics"
 title: git basics
@@ -8,7 +8,6 @@ categories:
   - web
 tags: 
   - blog
-published: true
 ---
 
 ### why we control the source code
@@ -46,7 +45,7 @@ It has more stages, so project evolution could be more precise during it's devel
   
 ### Git basic commands
 
-	git clone
+    git clone
     git add
     git commit
     git pull
@@ -54,7 +53,7 @@ It has more stages, so project evolution could be more precise during it's devel
 
 ### Advanced commands
 
- 	git merge
+    git merge
     git rebase
 
 ### References

@@ -20,10 +20,9 @@ The best way of Popcorn Time installation - from sources, wo in this way You hav
 
 ## Mac
 
-1. Install http://nodejs.org/
-2. Install git
-3. Run this command in the terminal
+Install nodejs from http://nodejs.org/
 
+Run this command in the terminal
 
     git clone git@github.com:popcorn-official/popcorn-app.git
     cd popcorn-app/
@@ -35,7 +34,7 @@ App is ready in the build/releases/Popcorn-Time/mac/
 
 ## Linux
 
-As on Mac.
+As on Mac. If the distribution is recent, You could try withh the package from official repository.
 
 If grunt couldn't find node, install nodejs-legacy
 

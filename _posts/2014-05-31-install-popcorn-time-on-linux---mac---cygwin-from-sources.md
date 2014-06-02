@@ -3,7 +3,7 @@ comments: true
 date: 2014-05-31
 layout: post
 slug: install-popcorn-time-on-linux---mac---cygwin-from-sources
-title: Install Popcorn Time on Linux / Mac / Cygwin from sources
+title: Install Popcorn Time on Linux / Mac from sources
 categories:
 - web
 tags:
@@ -18,19 +18,30 @@ On the base of Popcorn Time other projects appears, as Fleex - service of langua
 
 The best way of Popcorn Time installation - from sources, wo in this way You have no risk to get a malicious content inside.
 
-## Installation
+## Mac
 
 1. Install http://nodejs.org/
 2. Install git
 3. Run this command in the terminal
 
-	git clone git@github.com:popcorn-official/popcorn-app.git
-	cd popcorn-app/
-	sudo npm install -g grunt-cli
-	npm install
-	grunt build
+
+    git clone git@github.com:popcorn-official/popcorn-app.git
+    cd popcorn-app/
+    sudo npm install -g grunt-cli
+    npm install
+    grunt build
 
 App is ready in the build/releases/Popcorn-Time/mac/
+
+## Linux
+
+As on Mac.
+
+If grunt couldn't find node, install nodejs-legacy
+
+    sudo apt-get install nodejs-legacy
+
+App is ready in the build/releases/Popcorn-Time/linux64/
 
 ## Ressources
 

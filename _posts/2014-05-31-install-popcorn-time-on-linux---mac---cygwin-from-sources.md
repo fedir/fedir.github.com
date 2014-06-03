@@ -16,11 +16,11 @@ It's a NodeJS HTML5 open source application, and it's interesting to analyze fro
 
 On the base of Popcorn Time other projects appears, as Fleex - service of language learning, where You could find a word definiton directly in the context of movie watching.
 
-The best way of Popcorn Time installation - from sources, wo in this way You have no risk to get a malicious content inside.
+The best way of Popcorn Time installation - from sources, wo in this way You have no risk to get a malicious content inside, because there are lots of different packages already compiled You could find on different sites.
 
 ## Mac
 
-Install nodejs from http://nodejs.org/
+Install `nodejs` from `http://nodejs.org/`
 
 Run this command in the terminal
 
@@ -30,21 +30,21 @@ Run this command in the terminal
     npm install
     grunt build
 
-App is ready in the build/releases/Popcorn-Time/mac/
+App is ready in the `build/releases/Popcorn-Time/mac/`
 
 ## Linux
 
-Easy way : use this script of automatic compilation from sources https://raw.githubusercontent.com/MrVaykadji/misc/master/Popcorn-Time/0.3.0/build-popcorn
+Easy way : use this script of automatic compilation from sources `https://raw.githubusercontent.com/MrVaykadji/misc/master/Popcorn-Time/0.3.0/build-popcorn`
 
-Advanced method : same sequence as on Mac. If the distribution is recent, You could install nodejs package from official repository directly with Your package manager.
+Advanced method : same sequence as on Mac. If the distribution is recent, You could install `nodejs` package from official repository directly with Your package manager.
 
 If during build `grunt` couldn't find node, install `nodejs-legacy`
 
     sudo apt-get install nodejs-legacy
 
-If You will have the problem with `udev` device You could check this ticket check https://github.com/popcorn-official/popcorn-app/issues/265
+If You will have the problem with `udev` device You could check this ticket check `https://github.com/popcorn-official/popcorn-app/issues/265`
 
-After building, Popcorn will be placed in the build/releases/Popcorn-Time/linux64/
+After building, Popcorn will be placed in the `build/releases/Popcorn-Time/linux64/`
 
 ## Ressources
 

@@ -34,17 +34,17 @@ App is ready in the build/releases/Popcorn-Time/mac/
 
 ## Linux
 
-Easy way : use this script of automatic ompilation https://raw.githubusercontent.com/MrVaykadji/misc/master/Popcorn-Time/0.3.0/build-popcorn
+Easy way : use this script of automatic compilation from sources https://raw.githubusercontent.com/MrVaykadji/misc/master/Popcorn-Time/0.3.0/build-popcorn
 
-Hard way : steŝ as on Mac. If the distribution is recent, You could install nodejs package from official repository.
+Advanced method : same sequence as on Mac. If the distribution is recent, You could install nodejs package from official repository directly with Your package manager.
 
-If grunt couldn't find node, install nodejs-legacy
+If during build `grunt` couldn't find node, install `nodejs-legacy`
 
     sudo apt-get install nodejs-legacy
 
-If You will have the problem with udev device check https://github.com/popcorn-official/popcorn-app/issues/265
+If You will have the problem with `udev` device You could check this ticket check https://github.com/popcorn-official/popcorn-app/issues/265
 
-App is ready in the build/releases/Popcorn-Time/linux64/
+After building, Popcorn will be placed in the build/releases/Popcorn-Time/linux64/
 
 ## Ressources
 

@@ -14,10 +14,13 @@ tags:
 How to install Cordova and Sencha Touch 2 for multiplatform development.
 Quick notes for myself, but could be useful for somebody, who needs help.
 
-## Install Cordova
+## Installation
 
-### Install NodeJS from http://nodejs.org/
-#### Install Cordova
+### Install NodeJS 
+
+http://nodejs.org/
+
+### Install Cordova
 
     npm install -g cordova
 
@@ -27,18 +30,15 @@ Create Your project
 
 Pour faire la compilation il faut installer les environnements de compilations :
 
-### iOS
+#### More about Cordova installation part
 
-XCode
-
-* https://developer.apple.com/downloads/index.action#
-* http://cordova.apache.org/docs/en/3.5.0/guide_platforms_ios_index.md.html#iOS%20Platform%20Guide
-
-    cordova platforms add ios
+* Cordova tutorial (FR) http://www.grafikart.fr/tutoriels/cordova/apache-cordova-installation-432
+* Cordova tutorial video (FR) https://www.youtube.com/watch?v=VjlIECYXKlU
+* Cordova official docs http://cordova.apache.org/docs/fr/3.5.0/
 
 ### Android
 
-Dependencies
+#### Installation dependencies
 
 #### Java SDK (7)
 
@@ -77,13 +77,22 @@ http://cordova.apache.org/docs/en/3.5.0/guide_platforms_android_config.md.html#A
 
 #### Publishing
 
-Apple AppStore 90E
-	
-### More about Cordova installation part
+http://developer.android.com/distribute/googleplay/start.html
 
-* Cordova tutorial (FR) http://www.grafikart.fr/tutoriels/cordova/apache-cordova-installation-432
-* Cordova tutorial video (FR) https://www.youtube.com/watch?v=VjlIECYXKlU
-* Cordova official docs http://cordova.apache.org/docs/fr/3.5.0/
+### iOS
+
+#### Installation dependencies
+
+XCode
+
+* https://developer.apple.com/downloads/index.action#
+* http://cordova.apache.org/docs/en/3.5.0/guide_platforms_ios_index.md.html#iOS%20Platform%20Guide
+
+    cordova platforms add ios
+
+#### Publishing
+
+Apple AppStore 90E
 
 ## Install Sencha Touch 2 
 

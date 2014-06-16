@@ -21,7 +21,7 @@ Ressources around Haskell to start efficiently.
 
 * Haskell to JS compiler https://github.com/faylang/fay/wiki
 
-## Service with an online IDE and runtime
+## Programming
 
-* https://www.fpcomplete.com
+* Service with an online IDE and runtime https://www.fpcomplete.com
 

@@ -33,7 +33,7 @@ Results in :
 
 WhatWeb works on Ruby. Version depended. If You will have problems with launching, try to play with the version.
 
-   rvm install 1.9.3
+    rvm install 1.9.3
 
 ### Ressources
 

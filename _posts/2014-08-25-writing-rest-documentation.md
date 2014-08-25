@@ -22,7 +22,7 @@ It's a little bit more difficult to start to use the techology, so there are sev
 ### Tips
 
 * Use Your favorite editor : vim, gedit, eclipse, PhpStorm. There are plugins/modules, which will add You ReST syntax autocomplete / coloring.
-*
+* Autobuild sources in the browser to get realtime preview of Your sources. There are several methods You could take a try with sphinx-autobuild, which manages Your browser refresh also
 
 ### Ressources
 

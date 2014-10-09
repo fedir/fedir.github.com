@@ -12,6 +12,8 @@ tags:
 
 Nice tool on LInux to zoom whole the screen with Alt+Mousewheel.
 
+Quite useful for accessibility, small screens with HI-resolution and podcasts recording.
+
 ### Installation script
 
     git clone https://github.com/tobiasquinn/gnome-shell-mousewheel-zoom.git

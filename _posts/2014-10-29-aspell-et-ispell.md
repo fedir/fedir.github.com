@@ -18,7 +18,11 @@ Comment ça marche :
 
 Vérification d'un mot simple
 
-Controller un fichier
+    echo "corrigér" | /usr/bin/aspell -a
+    echo "corrigér" | /usr/bin/aspell -a | sed 's/.*: //g' | tr ',' '\n' | sed 's/ //g' | grep '*' -v | sed '/^\s*$/d'
+    
+    echo "corrigér" | /usr/bin/ispell -a
+    echo "corrigér" | /usr/bin/ispell -a | sed 's/.*://g' | sed 's/@.*//g' | tr ',' '\n' | sed 's/ //g' | grep '*' -v | sed '/^\s*$/d'
 
 Et en plus, on peut utiliser ces logiciels pour les applications externes, pour vérifier le syntaxe de vos commits git et svn, pour écrire des billets de blogs etc.
 

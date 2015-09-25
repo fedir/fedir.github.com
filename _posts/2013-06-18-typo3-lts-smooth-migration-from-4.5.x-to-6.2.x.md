@@ -3,8 +3,8 @@ comments: true
 date: 2013-06-18 
 layout: post 
 slug: typo3-lts-migration-from-4.5.x-to-6.2.x 
-title: TYPO3 LTS migration from 4.5.x to 6.2.x
-teaser: Notes about migration to new TYPO3 LTS
+title: TYPO3 CMS migration from 4.5 LTS to 6.2 LTS
+teaser: Notes about TYPO3 CMS LTS to LTS migration
 categories: 
 - web 
 tags: 
@@ -13,7 +13,7 @@ tags:
 - development workflow
 ---
 
-Collection of links and methods which could help to migrate Your installation and extensions from TYPO3 v.4.5 LTS/4.7 to TYPO3 v.6.2 LTS.
+Collection of links and methods which could help to migrate Your installation and extensions from TYPO3 CMS from v.4.5 LTS to v.6.2 LTS.
 
 ## Planning
 

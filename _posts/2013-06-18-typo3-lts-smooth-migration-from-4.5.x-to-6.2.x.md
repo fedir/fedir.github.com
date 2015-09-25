@@ -13,9 +13,18 @@ tags:
 - development workflow
 ---
 
-Collection of links which could help to migrate Your installation and extensions from TYPO3 v.4.5 LTS/4.7 to TYPO3 v.6.2 LTS.
+Collection of links and methods which could help to migrate Your installation and extensions from TYPO3 v.4.5 LTS/4.7 to TYPO3 v.6.2 LTS.
 
-## Smooth migration extension
+## Planning
+
+1. Backup Your files and database. Version sources before to begin th emigration.
+2. Update all 4.5 extensions, which also compatible with 6.2.
+3. Install `smooth_migration` extension and make automatic code update.
+4. Move core symlinks to 6.2.
+5. Resolve blocking issues on buggy extension.
+6. Optionnaly migrate DAM to FAL with the help of `we_dam2fal62` extension.
+
+## Smooth migration extension cheatsheet
 
 Marvelous extension which simplifies lot's of processes to analyze and to migrate the code of Your installation, what it becomes compatible with TYPO3 6.2.
 

@@ -55,3 +55,4 @@ Example of usage :
 * http://www.typo3forum.net/forum/typo3-installation-updates/75145-typo3-update-4-5-6-2-frage-smoothmigration.html?language=en
 * http://blog.scwebs.in/typo3/make-pibase-extension-compatible-to-typo3-6-2-x
 * https://jweiland.net/video-anleitungen/typo3/typo3-projekte-verwalten/upgrade-auf-typo3-62.html
+* http://typo3.blondiaux.com/articles-techniques/62-lts-quoi-de-neuf/montee-en-version-smooth-migration/

@@ -3,8 +3,8 @@ comments: true
 date: 2015-12-08
 layout: post
 slug: no-estimates
-title: #NoEstimates
-teaser: #NoEstimates: Agile Planning
+title: "#NoEstimates"
+teaser: "#NoEstimates: Agile Planning"
 categories: 
 - web
 - blog

@@ -3,20 +3,18 @@ comments: true
 date: 2014-10-29
 layout: post
 slug: aspell-et-ispell
-title: aspell et ispell, les deux amis de grammar nazi (fr)
+title: aspell et ispell (fr)
 categories:
 - web
 tags:
 - blog
 ---
 
-Et voilà, on va apprendre, comment vérifier ses propres erreurs grammaticales avec les outils open-source.
-
-Sans parler de l'embauche de l'équipe interne de vérification de textes, on peut rappeler des bons vieux logiciels de pappie et mammie : ispell et aspell.
+Et voilà, on va apprendre, comment vérifier ses propres erreurs grammaticales avec les outils open-source en ligne de commande.
 
 Comment ça marche :
 
-Vérification d'un mot simple
+Vérification d'un mot simple :
 
 aspell
 
@@ -28,11 +26,9 @@ ispell
     echo "corrigér" | /usr/bin/ispell -a
     echo "corrigér" | /usr/bin/ispell -a | sed 's/.*://g' | sed 's/@.*//g' | tr ',' '\n' | sed 's/ //g' | grep '*' -v | sed '/^\s*$/d'
 
-Et en plus, on peut utiliser ces logiciels pour les applications externes, pour vérifier le syntaxe de vos commits git et svn, pour écrire des billets de blogs etc.
+En plus, on peut utiliser ces logiciels pour les applications externes, pour vérifier le syntaxe de vos commits git et svn, pour écrire des billets de blogs etc.
 
 Ces outils marchent aussi avec des phrases et fichiers entieres.
-
-P.S. Si vous avez trouvé des erreurs dans ce texte, merci de me signaler dans les commentaires.
 
 ## Ressources pour creuser un peu plus
 

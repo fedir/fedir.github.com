@@ -56,3 +56,4 @@ Example of usage :
 * http://blog.scwebs.in/typo3/make-pibase-extension-compatible-to-typo3-6-2-x
 * https://jweiland.net/video-anleitungen/typo3/typo3-projekte-verwalten/upgrade-auf-typo3-62.html
 * http://typo3.blondiaux.com/articles-techniques/62-lts-quoi-de-neuf/montee-en-version-smooth-migration/
+* http://www.bstar.de/2016/04/08/typo3-easy-upgrade-of-pibase-extension-to-typo3-6-2-or-7-6/

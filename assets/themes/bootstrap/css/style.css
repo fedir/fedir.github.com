@@ -83,12 +83,13 @@
 }
 
 div#content {
-  -moz-box-shadow: 0px 0px 15px 1px #d3d3d3;
-  -webkit-box-shadow: 0px 0px 15px 1px #d3d3d3;
-  -o-box-shadow: 0px 0px 15px 1px #d3d3d3;
-  box-shadow: 0px 0px 15px 1px #d3d3d3;
-  filter:progid:DXImageTransform.Microsoft.Shadow(color=#d3d3d3, Direction=NaN, Strength=15);
+  -moz-box-shadow: 0px 0px 10px 1px #d3d3d3;
+  -webkit-box-shadow: 0px 0px 10px 1px #d3d3d3;
+  -o-box-shadow: 0px 0px 10px 1px #d3d3d3;
+  box-shadow: 0px 0px 10px 1px #d3d3d3;
+  filter:progid:DXImageTransform.Microsoft.Shadow(color=#d3d3d3, Direction=NaN, Strength=10);
   -moz-border-radius: 10px;
   -webkit-border-radius: 10px;
-  border-radius: 10px;
+  border-radius: 5px;
+  padding: 40px;
 }

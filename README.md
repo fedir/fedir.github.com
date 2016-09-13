@@ -44,5 +44,3 @@ The master and gh-pages branch do not share the same ancestry. Please treat them
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
-
-## This is a blog of Fedir

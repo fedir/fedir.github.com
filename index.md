@@ -18,7 +18,7 @@ Full CV You will find on [Linkedin](https://www.linkedin.com/pub/fedir-rykhtik/1
 
 * * *
 
-Posts :
+Articles :
 
 {% for teaser in teasers %}
   <h4><a href="{{ BASE_PATH }}{{ teaser.url }}">{{ teaser.title }}</a></h4>

@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Fedir's blog
+title: Fedir RYKHTIK - Personal site
 tagline: Supporting tagline
+description: Personal site of Fedir RYKHTIK (CTO / Teacher / Programmer / Speaker from Toulon, France).
 ---
 {% include JB/setup %}
 {% assign teasers = site.posts %}

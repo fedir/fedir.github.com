@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://fedir.github.io/</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/about</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/archive</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/tags</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/blog/2015/12/08/no-estimates</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/blog/2015/09/01/install-wkhtmltopdf-on-debian-7.8</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2014/10/29/aspell-et-ispell</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2014/10/14/deploying-openlayers</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2014/10/09/install-mousewheelzoom-from-sources-on-linux</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2014/08/27/(free)-angularjs-books-ressources</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2014/08/25/writing-rest-documentation</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2014/07/22/whatweb-site-analyzer</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2014/06/16/haskell-ressources</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2014/06/16/cordova-and-sencha-touch-2-installation-for-mobile-development</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2014/05/31/install-popcorn-time-on-linux-mac-cygwin-from-sources</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2014/05/20/inspiring-conference-2014</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2014/05/19/rup</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2014/04/17/running-typo3-on-hhvm</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2014/01/22/switchable-controller-actions-in-typo3-extbase</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2014/01/13/what-is-php-about</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2014/01/06/gitlab-projects-management-from-shell</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2013/11/18/interactive-html5-presentations</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2013/11/13/typo3-neos</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2013/11/13/things-management-systems</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2013/11/12/git-basics</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2013/10/18/fastest-php-framework</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2013/10/18/command-line-tools-for-data-science</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2013/10/17/installing-typo3-neos</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2013/10/07/typo3-fedext-contribution-cheat-sheet</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2013/10/04/configuring-mnogosearch-for-your-language</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2013/10/03/making-fedext-s-flexforms-aka-fluidcontent-with-typo3-4.5-lts</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2013/10/01/extbase-development</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/blog/2013/09/25/install-wkhtmltopdf-on-ubuntu</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/blog/2013/07/16/javascript-cheat-sheet</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/blog/2013/07/14/vagrant-infrastructure-for-repeatable-local-development</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/blog/web/2013/07/14/boost-vagrant</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2013/07/03/todo-rules</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2013/07/01/the-harmony-of-twitter-stream</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2013/06/18/typo3-lts-migration-from-4.5.x-to-6.2.x</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2013/06/18/osm-importing-into-tilemill-for-personalization-and-further-export</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2013/06/18/begin-python-if-you-are-coming-from-php</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2013/06/17/js-validation</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2013/06/14/creative-writing-tools</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2013/06/13/aggregate-rss-feeds</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2013/06/13/tilemill</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/2013/06/13/OpenLayers-shortest-path</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/2013/06/13/OpenLayers-local-install</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/2013/06/11/avoiding-spam-problems</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/2013/05/17/svn-snippets</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/2013/05/16/OpenLayers-API-hints</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/2013/05/14/Print-from-shell-to-PDF</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/2013/05/07/Raspberry-Pi</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2013/05/02/typo3-surf</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/2013/04/29/empty-vs-isset</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/2013/04/29/begining-of-contribution-to-openstreetmap</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2013/04/27/chrome-extensions-i-use</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2013/04/26/installing-chromlogger</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2013/04/18/cheap-hosting-for-magento</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2013/04/13/typo3-forking</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/web/2013/04/09/dynamic-robots-txt-php</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/study/2013/04/04/TYPO3-BE-profiling-with-XHProf-profiling</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/lessons/2013/03/26/NFS-debug</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/2013/03/24/new-blog</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/words/2011/12/14/wordpress-and-admin-interface-optimization</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/open%20source/unix'es/2011/12/03/deploy-web-projects-with-git</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/open%20source/2011/11/29/open-source-project-power-formula</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/typo3/2011/11/26/additional-reports-typo3-extension-for-complex-system-analysis</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/unix'es/2011/11/26/send-a-whole-directory-by-ftp-recursively</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/words/2011/11/25/mysql-runtime-memory-calculator</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/wordpress/2011/11/25/advanced-custom-fields-plugin-which-adds-custom-fields-functionality-to-wordpress</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/unix'es/2011/11/25/converting-lots-of-files-from-iso-8859-1-to-utf-8-with-help-of-iconv</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/unix'es/2011/11/20/mesure-readwrite-performance-transfer-of-mounted-devices</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://fedir.github.io/tags.html</loc>
+  <lastmod>2016-09-13T23:42:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+</urlset>

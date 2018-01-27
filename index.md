@@ -10,9 +10,9 @@ description: Personal site of Fedir RYKHTIK (CTO / Teacher / Programmer / Speake
 {% assign tags_take = 3 %}
 {% assign teasers_words = 50 %}
 
-Fedir RYKHTIK - CTO / Teacher / Programmer / Speaker from Toulon, France.
+Fedir RYKHTIK - CTO / Developer / Teacher / Speaker from Toulon, France.
 
-I'm making sites with Open Source techologies, such as Drupal, TYPO3, Wordpress, Symphony, Magento, Ionic.
+I'm making sites with Open Source techologies, such as Drupal, TYPO3, Wordpress, Symphony, Magento, Ionic ...
 
 Full CV You will find on [Linkedin](https://www.linkedin.com/pub/fedir-rykhtik/14/64/a84). Also You could check slides from my [talks](https://speakerdeck.com/fedir) and contact me via [Twitter](https://twitter.com/FedirFR).
 

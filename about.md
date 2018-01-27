@@ -5,7 +5,7 @@ header: About Fedir RYKHTIK
 group: navigation
 ---
 
-Fedir RYKHTIK - CTO / Teacher / Programmer / Speaker from Toulon, France.
+Fedir RYKHTIK - CTO / Developer / Teacher / Speaker from Toulon, France.
 
 The Internet is not permanent, it's distributed and the aim of this blog : to store some stuff I'm working on, to maje notes, to keep bookmarks. So my blog is kind of advanced bookmarklet, with shippets feature.
 

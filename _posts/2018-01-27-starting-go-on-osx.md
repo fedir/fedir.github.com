@@ -19,7 +19,9 @@ To be sure, what You have no older version installed, please remove all installe
 
     rm -rf /usr/local/go/
 
-Next possible step is to install latest Go version. On macOS You have 2 choises : or to use sources, or to install via installer. With installer it's very easy.
+Next step is to install latest Go version. 
+
+On macOS You have 2 choises : or to use Go sources and to install the package manually, by downloading and installing it in the folder, choosen by Your own choise; or to install via automatic installer. With installer it's will be more simple to start.
 
 Download macOS (OSx) installer and install it : https://golang.org/doc/install
 
@@ -30,6 +32,9 @@ Add path variables into Your .profile file :
     export GOROOT=/usr/local/go
     export PATH=${GOROOT}/bin:${PATH}
 
+Now You could start to play with Go.
+
+You could use pretty any IDE, as Go synatx is quite simple.
 
 ## References
 

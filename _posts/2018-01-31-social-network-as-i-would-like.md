@@ -11,8 +11,6 @@ tags:
 - social
 ---
 
-# Social network as I would like
-
 The ideal social network for a free mind should not contain any comments, any statistics about visits, it should not allow any comments.
 
 We should not have any feedback. Any noise from all that crowd.

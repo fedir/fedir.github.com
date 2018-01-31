@@ -17,7 +17,7 @@ We should not have any feedback. Any noise from all that crowd.
 
 On the Internet, it's rather shadows, ghosts, which whispers in the darkness of underground cables, laid under the ground and the water of world ocean, between You and nobody.
 
-Close Your accounts, let it closed, at least for the night. In the morning You could connect again and check these real news, which will fill Your empty and cold life. But now, just close it, click "Disconnect", "Quit", "Log out", and keep those gosts away from You. Feel Yourself here and now, without any there and then.
+Close Your accounts, let it closed, at least for the night. In the morning You could connect again and check all these news about everybody and everything, which will fill Your empty and cold life. But now, just close it, click "Disconnect", "Quit", "Log out", and keep those ghsts away from You. Feel Yourself here and now, without any there and then.
 
 The only real world for You it's You and Your life. Which is there, where You are. And not there, where You are not.
 

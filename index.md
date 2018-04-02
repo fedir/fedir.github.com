@@ -12,11 +12,7 @@ description: Personal site of Fedir RYKHTIK (CTO / DevOps / Go Developer from To
 
 Fedir RYKHTIK - CTO / DevOps / Go Developer from Toulon, France.
 
-[Full CV](https://www.visualcv.com/fedir-rykhtik). 
-
-Slides from my [talks](https://speakerdeck.com/fedir).
-
-Contact me via [Twitter](https://twitter.com/FedirFR).
+[CV](https://www.visualcv.com/fedir-rykhtik). [Talks](https://speakerdeck.com/fedir). [Twitter](https://twitter.com/FedirFR).
 
 * * *
 

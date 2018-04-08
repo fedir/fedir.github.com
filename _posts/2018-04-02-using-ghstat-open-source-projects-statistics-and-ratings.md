@@ -14,15 +14,17 @@ tags:
 
 As a CTO, I must choose the best strategy for my company. So when dealing with open source projects, I should be careful, to choose the right one, otherwise, my company will take some risks.
 
-But also as open source developer, I'm interested in investing my time in technologies with a high satisfaction level of quality requirements.
+But also as an open source developer, I'm interested in investing of my time in technologies with a high level of quality and stability.
 
-In the world of today, we have not always the vision of the quality of the code of each project, we could find on Github. Some projects integrates continuous delivery processes, making regular builds, and using code coverage metrics, to prove, basically, what the code is working and tested. But some projects no. Some projects have documentation, some no. Some project authors mainain their projects actively, some no. And modern developer in this "open bar" world sometimes more "code consumer", then code author. Developers looks for bricks on Github and Sourceforge, glue it with code snippets, founded on Stackoverflow, cut it with a cheap bootstrap theme and the work is done. But... Sometimes, it's not enough. We need to choose better components, better solutions, to guarantee, what projects will work during all its life cycle. What it will work good, stable, secure, fast (... many NFR goes here).
+In the world of today, we have not always the vision of the quality of the code of each project, which we could find on Github. Some projects integrates continuous delivery processes, making regular builds, and using code coverage metrics, to prove, basically, what the code is working and tested. But some projects no. Some projects have documentation, some no. Some project authors mainain their projects actively, some no.
 
-To help to developers and to technical leaders, as me, I wrote a tool, which could help to get statistics about open source projects, maintained via Github, and to rate them different multiple metrics.
+Modern developers in this "open bar" world sometimes more *"code consumer"*, or *"code constructor"*, then *"code writer"*. Developers are looking for bricks on Github and Sourceforge, gluing it with code snippets, founded on Stackoverflow, cut it with a cheap bootstrap theme and the work is done. But even this approach should be done carefully. We must choose best components, best solutions, to have a minimal guarantee, what projects will work during all its life cycle. What it will work good, stable, secure, fast (... many [NFR-s](https://en.wikipedia.org/wiki/Non-functional_requirement) could go here).
 
-It calls ghstat and You could find it here: https://github.com/fedir/ghstat
+To help to developers and to technical leaders, I wrote a command tool written in Go, which could help to get statistics about open source projects, maintained via Github, and to rate them different multiple metrics.
 
-ghstat is a command line tool written in Go.
+It calls ghstat and You could find it here: [https://github.com/fedir/ghstat](https://github.com/fedir/ghstat)
+
+`ghstat` helps You to check multiple metrics, related to the project, but at the moment it's not designed to check code quality of projects, this is up to You, once You identified most interesting projects with the help of `ghstat`.
 
 The usage is quite simple, You run it with list of Github projects keys, and the destination, where You would like to output collected statistics :
 
@@ -42,7 +44,7 @@ As result, You will have a CSV file with similar content :
     web2py/web2py,https://github.com/web2py/web2py,mdipierro,422,797,2008/11,3432,5411,602972,330737,933709,172,1573,750,147,19.60,177,714,0.2080,75.21,8
     plotly/dash,https://github.com/plotly/dash,chriddyp,218,950,2015/04,1087,409,116616,111480,228096,557,4510,415,15,3.61,65,187,0.1720,65.24,9
 
-Here You could find nicely formatted example : https://github.com/fedir/ghstat/blob/master/stats/python_frameworks.csv
+Here You could find nicely formatted example : [https://github.com/fedir/ghstat/blob/master/stats/python_frameworks.csv](https://github.com/fedir/ghstat/blob/master/stats/python_frameworks.csv)
 
 Let's check more precisely on the different metrics and precise some of them :
 
@@ -74,12 +76,14 @@ Also `ghstat` gives You several additional ratings, as :
 
     * The most popular project is `pallets/flask`
     * The newest project is `channelcat/sanic`
-    * The project with the most active community is `TurboGears/tg2`
-    * The project with best errors resolving rate is `django/django`
     * The project with more commits is `django/django`
+    * The project with more tags is `django/django`
     * The project made by most notable top contributors is `pallets/flask`
+    * The project with best errors resolving rate is `django/django`
+    * The project with more commits by day is `django/django`
+    * The project with the most active community is `TurboGears/tg2`
     * The best project (taking in account placements in all competitions) is `django/django`
 
 Using such approach You could easily compare different projects, check their quality metrics, and to choose right one for further analyze (code quality review, used dependencies...).
 
-Projects homepage : https://github.com/fedir/ghstat
+Projects homepage : [https://github.com/fedir/ghstat](https://github.com/fedir/ghstat)

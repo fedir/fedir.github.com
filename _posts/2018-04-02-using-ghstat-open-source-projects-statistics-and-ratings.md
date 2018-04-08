@@ -72,7 +72,7 @@ Let's check more precisely on the different metrics and precise some of them :
 
 You could open generated file with OpenOffice Calc / Google Spreadsheets / Microsoft Excel.
 
-Also `ghstat` gives You several additional ratings, as : 
+Also `ghstat` gives You several additional ratings, as :
 
     * The most popular project is `pallets/flask`
     * The newest project is `channelcat/sanic`

@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="refresh" content="0; url=https://docs.google.com/forms/d/e/1FAIpQLSfwH1WNPp6Y72gjgbW0sMGQ5nYwvEIgkeAOmYOjv2igGk8RXA/viewform">
+        <script type="text/javascript">
+            window.location.href = "https://docs.google.com/forms/d/e/1FAIpQLSfwH1WNPp6Y72gjgbW0sMGQ5nYwvEIgkeAOmYOjv2igGk8RXA/viewform"
+        </script>
+        <title>Fedir's Presentation Feedback</title>
+    </head>
+    <body>
+        <!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
+        If you are not redirected automatically, follow this <a href='https://docs.google.com/forms/d/e/1FAIpQLSfwH1WNPp6Y72gjgbW0sMGQ5nYwvEIgkeAOmYOjv2igGk8RXA/viewform'>link to example</a>.
+    </body>
+</html>
